@@ -67,6 +67,7 @@ CATEGORIES = {
         "color": "#7c9070",
         "skills": {
             "kautoresearch", "kenmoe", "research", "workflow-runner", "github-cron",
+            "building-feishu-daily-reports",
         },
     },
 }

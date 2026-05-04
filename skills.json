@@ -842,6 +842,19 @@
     "download": "downloads/skill-learn.zip"
   },
   {
+    "name": "building-feishu-daily-reports",
+    "desc": "Use when 用户要搭建定期推送到飞书的数据日报/周报/月报系统（GMV、损益、运营指标），涉及 CSV/Excel/ODPS 数据源、漂亮 HTML 模板、playwright 截图、飞书机器人推送、GitHub Actions 定时调度的完整链路。包含飞书自建应用 vs 群机器人选型、chat_id 获取、中文字体、ECharts 渲染等关键坑。",
+    "overview": "数据日报推送（GMV、PnL、运营指标 → 飞书）是常见内部展示场景。本 skill 提供端到端脚手架方法论 —— **HTML 模板 + Python 数据管线 + 飞书推送 + GitHub Actions 调度**。",
+    "triggers": [],
+    "category_id": "orchestration",
+    "category": "研究编排",
+    "color": "#7c9070",
+    "path": "/Users/tedmiao/.claude/skills/building-feishu-daily-reports",
+    "size_kb": 6,
+    "files": 1,
+    "download": "downloads/building-feishu-daily-reports.zip"
+  },
+  {
     "name": "github-cron",
     "desc": "把本地 Python 项目搬到 GitHub 跑定时 Actions 任务（每天/每周自动云端运行）。 支持三种发布模式：仅运行 / 推数据到 public repo / 加密发布到 GitHub Pages（双 repo + AES-GCM）。 触发词：GitHub Actions 定时任务、cron 任务上云、把脚本搬到 GitHub、加密私享看板、定时跑选股/爬虫脚本。 不适用：一次性任务（直接本地跑就好）、需要桌面 GUI 的任务、长时间任务（>6h）、需要 GPU 的任务。",
     "overview": "把用户已有的本地 Python 项目（典型如选股、爬虫、数据处理）搬到 GitHub Actions 上**定时云端跑**，电脑关机也不影响。",
