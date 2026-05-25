@@ -3,3 +3,14 @@ __pycache__/
 *.pyc
 .vscode/
 .idea/
+
+# 备份文件（手工编辑时产生的，不进 git）
+*.bak
+*.notion_v1
+
+# 超大 skill 打包（超过 GitHub 100MB 限制，build.py 已自动跳过生成）
+downloads/qiaomu-anything-to-notebooklm.zip
+downloads/ppt-master.zip
+
+# auto_sync 临时日志
+/tmp/teds-sync.log

@@ -10,6 +10,7 @@
     "path": "/Users/tedmiao/.claude/skills/3-statement-model",
     "size_kb": 37,
     "files": 4,
+    "source": "installed",
     "download": "downloads/3-statement-model.zip"
   },
   {
@@ -32,6 +33,7 @@
     "path": "/Users/tedmiao/.claude/skills/audit-xls",
     "size_kb": 6,
     "files": 1,
+    "source": "installed",
     "download": "downloads/audit-xls.zip"
   },
   {
@@ -45,6 +47,7 @@
     "path": "/Users/tedmiao/.claude/skills/bond-futures-basis",
     "size_kb": 4,
     "files": 1,
+    "source": "installed",
     "download": "downloads/bond-futures-basis.zip"
   },
   {
@@ -58,6 +61,7 @@
     "path": "/Users/tedmiao/.claude/skills/bond-relative-value",
     "size_kb": 4,
     "files": 1,
+    "source": "installed",
     "download": "downloads/bond-relative-value.zip"
   },
   {
@@ -79,6 +83,7 @@
     "path": "/Users/tedmiao/.claude/skills/clean-data-xls",
     "size_kb": 3,
     "files": 1,
+    "source": "installed",
     "download": "downloads/clean-data-xls.zip"
   },
   {
@@ -92,6 +97,7 @@
     "path": "/Users/tedmiao/.claude/skills/competitive-analysis",
     "size_kb": 13,
     "files": 3,
+    "source": "installed",
     "download": "downloads/competitive-analysis.zip"
   },
   {
@@ -105,6 +111,7 @@
     "path": "/Users/tedmiao/.claude/skills/comps-analysis",
     "size_kb": 30,
     "files": 1,
+    "source": "installed",
     "download": "downloads/comps-analysis.zip"
   },
   {
@@ -118,6 +125,7 @@
     "path": "/Users/tedmiao/.claude/skills/datapack-builder",
     "size_kb": 23,
     "files": 1,
+    "source": "installed",
     "download": "downloads/datapack-builder.zip"
   },
   {
@@ -131,6 +139,7 @@
     "path": "/Users/tedmiao/.claude/skills/dcf-model",
     "size_kb": 61,
     "files": 4,
+    "source": "installed",
     "download": "downloads/dcf-model.zip"
   },
   {
@@ -144,6 +153,7 @@
     "path": "/Users/tedmiao/.claude/skills/deck-refresh",
     "size_kb": 6,
     "files": 1,
+    "source": "installed",
     "download": "downloads/deck-refresh.zip"
   },
   {
@@ -157,6 +167,7 @@
     "path": "/Users/tedmiao/.claude/skills/earnings-analysis",
     "size_kb": 49,
     "files": 4,
+    "source": "installed",
     "download": "downloads/earnings-analysis.zip"
   },
   {
@@ -170,6 +181,7 @@
     "path": "/Users/tedmiao/.claude/skills/earnings-preview-single",
     "size_kb": 92,
     "files": 3,
+    "source": "installed",
     "download": "downloads/earnings-preview-single.zip"
   },
   {
@@ -183,6 +195,7 @@
     "path": "/Users/tedmiao/.claude/skills/equity-research",
     "size_kb": 4,
     "files": 1,
+    "source": "installed",
     "download": "downloads/equity-research.zip"
   },
   {
@@ -196,6 +209,7 @@
     "path": "/Users/tedmiao/.claude/skills/financial-statements",
     "size_kb": 14,
     "files": 1,
+    "source": "installed",
     "download": "downloads/financial-statements.zip"
   },
   {
@@ -209,6 +223,7 @@
     "path": "/Users/tedmiao/.claude/skills/fixed-income-portfolio",
     "size_kb": 4,
     "files": 1,
+    "source": "installed",
     "download": "downloads/fixed-income-portfolio.zip"
   },
   {
@@ -222,6 +237,7 @@
     "path": "/Users/tedmiao/.claude/skills/fsi-strip-profile",
     "size_kb": 17,
     "files": 1,
+    "source": "installed",
     "download": "downloads/fsi-strip-profile.zip"
   },
   {
@@ -241,6 +257,7 @@
     "path": "/Users/tedmiao/.claude/skills/funding-digest",
     "size_kb": 46,
     "files": 3,
+    "source": "installed",
     "download": "downloads/funding-digest.zip"
   },
   {
@@ -254,6 +271,7 @@
     "path": "/Users/tedmiao/.claude/skills/fx-carry-trade",
     "size_kb": 4,
     "files": 1,
+    "source": "installed",
     "download": "downloads/fx-carry-trade.zip"
   },
   {
@@ -267,6 +285,7 @@
     "path": "/Users/tedmiao/.claude/skills/ib-check-deck",
     "size_kb": 17,
     "files": 4,
+    "source": "installed",
     "download": "downloads/ib-check-deck.zip"
   },
   {
@@ -280,6 +299,7 @@
     "path": "/Users/tedmiao/.claude/skills/initiating-coverage",
     "size_kb": 225,
     "files": 9,
+    "source": "installed",
     "download": "downloads/initiating-coverage.zip"
   },
   {
@@ -293,6 +313,7 @@
     "path": "/Users/tedmiao/.claude/skills/lbo-model",
     "size_kb": 16,
     "files": 1,
+    "source": "installed",
     "download": "downloads/lbo-model.zip"
   },
   {
@@ -306,6 +327,7 @@
     "path": "/Users/tedmiao/.claude/skills/macro-rates-monitor",
     "size_kb": 4,
     "files": 1,
+    "source": "installed",
     "download": "downloads/macro-rates-monitor.zip"
   },
   {
@@ -319,6 +341,7 @@
     "path": "/Users/tedmiao/.claude/skills/option-vol-analysis",
     "size_kb": 4,
     "files": 1,
+    "source": "installed",
     "download": "downloads/option-vol-analysis.zip"
   },
   {
@@ -332,6 +355,7 @@
     "path": "/Users/tedmiao/.claude/skills/pitch-deck",
     "size_kb": 55,
     "files": 5,
+    "source": "installed",
     "download": "downloads/pitch-deck.zip"
   },
   {
@@ -345,6 +369,7 @@
     "path": "/Users/tedmiao/.claude/skills/ppt-template-creator",
     "size_kb": 9,
     "files": 1,
+    "source": "installed",
     "download": "downloads/ppt-template-creator.zip"
   },
   {
@@ -358,6 +383,7 @@
     "path": "/Users/tedmiao/.claude/skills/startup-financial-modeling",
     "size_kb": 10,
     "files": 1,
+    "source": "installed",
     "download": "downloads/startup-financial-modeling.zip"
   },
   {
@@ -371,6 +397,7 @@
     "path": "/Users/tedmiao/.claude/skills/swap-curve-strategy",
     "size_kb": 4,
     "files": 1,
+    "source": "installed",
     "download": "downloads/swap-curve-strategy.zip"
   },
   {
@@ -384,6 +411,7 @@
     "path": "/Users/tedmiao/.claude/skills/tear-sheet",
     "size_kb": 86,
     "files": 6,
+    "source": "installed",
     "download": "downloads/tear-sheet.zip"
   },
   {
@@ -397,6 +425,7 @@
     "path": "/Users/tedmiao/.claude/skills/chinese-code-review",
     "size_kb": 9,
     "files": 1,
+    "source": "installed",
     "download": "downloads/chinese-code-review.zip"
   },
   {
@@ -410,6 +439,7 @@
     "path": "/Users/tedmiao/.claude/skills/chinese-commit-conventions",
     "size_kb": 9,
     "files": 1,
+    "source": "installed",
     "download": "downloads/chinese-commit-conventions.zip"
   },
   {
@@ -423,6 +453,7 @@
     "path": "/Users/tedmiao/.claude/skills/chinese-documentation",
     "size_kb": 10,
     "files": 1,
+    "source": "installed",
     "download": "downloads/chinese-documentation.zip"
   },
   {
@@ -436,6 +467,7 @@
     "path": "/Users/tedmiao/.claude/skills/chinese-git-workflow",
     "size_kb": 13,
     "files": 1,
+    "source": "installed",
     "download": "downloads/chinese-git-workflow.zip"
   },
   {
@@ -449,6 +481,7 @@
     "path": "/Users/tedmiao/.claude/skills/brainstorming",
     "size_kb": 49,
     "files": 8,
+    "source": "installed",
     "download": "downloads/brainstorming.zip"
   },
   {
@@ -462,6 +495,7 @@
     "path": "/Users/tedmiao/.claude/skills/build",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/build.zip"
   },
   {
@@ -475,6 +509,7 @@
     "path": "/Users/tedmiao/.claude/skills/design-consultation",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/design-consultation.zip"
   },
   {
@@ -488,6 +523,7 @@
     "path": "/Users/tedmiao/.claude/skills/design-review",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/design-review.zip"
   },
   {
@@ -501,6 +537,7 @@
     "path": "/Users/tedmiao/.claude/skills/dispatching-parallel-agents",
     "size_kb": 6,
     "files": 1,
+    "source": "installed",
     "download": "downloads/dispatching-parallel-agents.zip"
   },
   {
@@ -514,6 +551,7 @@
     "path": "/Users/tedmiao/.claude/skills/executing-plans",
     "size_kb": 6,
     "files": 1,
+    "source": "installed",
     "download": "downloads/executing-plans.zip"
   },
   {
@@ -527,6 +565,7 @@
     "path": "/Users/tedmiao/.claude/skills/finishing-a-development-branch",
     "size_kb": 4,
     "files": 1,
+    "source": "installed",
     "download": "downloads/finishing-a-development-branch.zip"
   },
   {
@@ -540,6 +579,7 @@
     "path": "/Users/tedmiao/.claude/skills/investigate",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/investigate.zip"
   },
   {
@@ -553,6 +593,7 @@
     "path": "/Users/tedmiao/.claude/skills/office-hours",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/office-hours.zip"
   },
   {
@@ -566,6 +607,7 @@
     "path": "/Users/tedmiao/.claude/skills/plan",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/plan.zip"
   },
   {
@@ -579,6 +621,7 @@
     "path": "/Users/tedmiao/.claude/skills/prepare",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/prepare.zip"
   },
   {
@@ -592,6 +635,7 @@
     "path": "/Users/tedmiao/.claude/skills/receiving-code-review",
     "size_kb": 6,
     "files": 1,
+    "source": "installed",
     "download": "downloads/receiving-code-review.zip"
   },
   {
@@ -605,6 +649,7 @@
     "path": "/Users/tedmiao/.claude/skills/requesting-code-review",
     "size_kb": 6,
     "files": 2,
+    "source": "installed",
     "download": "downloads/requesting-code-review.zip"
   },
   {
@@ -618,6 +663,7 @@
     "path": "/Users/tedmiao/.claude/skills/research-hours",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/research-hours.zip"
   },
   {
@@ -631,6 +677,7 @@
     "path": "/Users/tedmiao/.claude/skills/retro",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/retro.zip"
   },
   {
@@ -644,6 +691,7 @@
     "path": "/Users/tedmiao/.claude/skills/review",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/review.zip"
   },
   {
@@ -657,6 +705,7 @@
     "path": "/Users/tedmiao/.claude/skills/ship",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/ship.zip"
   },
   {
@@ -670,6 +719,7 @@
     "path": "/Users/tedmiao/.claude/skills/subagent-driven-development",
     "size_kb": 18,
     "files": 4,
+    "source": "installed",
     "download": "downloads/subagent-driven-development.zip"
   },
   {
@@ -683,6 +733,7 @@
     "path": "/Users/tedmiao/.claude/skills/systematic-debugging",
     "size_kb": 40,
     "files": 11,
+    "source": "installed",
     "download": "downloads/systematic-debugging.zip"
   },
   {
@@ -696,6 +747,7 @@
     "path": "/Users/tedmiao/.claude/skills/test",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/test.zip"
   },
   {
@@ -709,6 +761,7 @@
     "path": "/Users/tedmiao/.claude/skills/test-driven-development",
     "size_kb": 18,
     "files": 2,
+    "source": "installed",
     "download": "downloads/test-driven-development.zip"
   },
   {
@@ -722,6 +775,7 @@
     "path": "/Users/tedmiao/.claude/skills/using-git-worktrees",
     "size_kb": 5,
     "files": 1,
+    "source": "installed",
     "download": "downloads/using-git-worktrees.zip"
   },
   {
@@ -735,6 +789,7 @@
     "path": "/Users/tedmiao/.claude/skills/using-superpowers",
     "size_kb": 13,
     "files": 5,
+    "source": "installed",
     "download": "downloads/using-superpowers.zip"
   },
   {
@@ -748,6 +803,7 @@
     "path": "/Users/tedmiao/.claude/skills/verification-before-completion",
     "size_kb": 4,
     "files": 1,
+    "source": "installed",
     "download": "downloads/verification-before-completion.zip"
   },
   {
@@ -761,6 +817,7 @@
     "path": "/Users/tedmiao/.claude/skills/writing-plans",
     "size_kb": 7,
     "files": 2,
+    "source": "installed",
     "download": "downloads/writing-plans.zip"
   },
   {
@@ -774,6 +831,7 @@
     "path": "/Users/tedmiao/.claude/skills/writing-skills",
     "size_kb": 96,
     "files": 7,
+    "source": "installed",
     "download": "downloads/writing-skills.zip"
   },
   {
@@ -787,6 +845,7 @@
     "path": "/Users/tedmiao/.claude/skills/find-skills",
     "size_kb": 5,
     "files": 1,
+    "source": "installed",
     "download": "downloads/find-skills.zip"
   },
   {
@@ -800,6 +859,7 @@
     "path": "/Users/tedmiao/.claude/skills/mcp-builder",
     "size_kb": 8,
     "files": 1,
+    "source": "installed",
     "download": "downloads/mcp-builder.zip"
   },
   {
@@ -813,6 +873,7 @@
     "path": "/Users/tedmiao/.claude/skills/skill-creator",
     "size_kb": 48,
     "files": 7,
+    "source": "installed",
     "download": "downloads/skill-creator.zip"
   },
   {
@@ -826,6 +887,7 @@
     "path": "/Users/tedmiao/.claude/skills/skill-harden",
     "size_kb": 14,
     "files": 1,
+    "source": "installed",
     "download": "downloads/skill-harden.zip"
   },
   {
@@ -839,6 +901,7 @@
     "path": "/Users/tedmiao/.claude/skills/skill-learn",
     "size_kb": 9,
     "files": 1,
+    "source": "installed",
     "download": "downloads/skill-learn.zip"
   },
   {
@@ -852,6 +915,7 @@
     "path": "/Users/tedmiao/.claude/skills/building-feishu-daily-reports",
     "size_kb": 6,
     "files": 1,
+    "source": "installed",
     "download": "downloads/building-feishu-daily-reports.zip"
   },
   {
@@ -874,7 +938,22 @@
     "path": "/Users/tedmiao/.claude/skills/github-cron",
     "size_kb": 32,
     "files": 7,
+    "source": "installed",
     "download": "downloads/github-cron.zip"
+  },
+  {
+    "name": "huashu-nuwa",
+    "desc": "女娲造人：输入人名/主题/甚至只是模糊需求，自动深度调研→思维框架提炼→生成可运行的人物Skill。 两种入口：(1)明确人名→直接蒸馏 (2)模糊需求→诊断推荐→再蒸馏。 触发词：「造skill」「蒸馏XX」「女娲」「造人」「XX的思维方式」「做个XX视角」「更新XX的skill」。 模糊需求也触发：「我想提升决策质量」「有没有一种思维方式能帮我...」「我需要一个思维顾问」。",
+    "overview": "> 「写不进去的那部分，才是你真正的护城河。」——但写得进去的部分，已经足够强大。",
+    "triggers": [],
+    "category_id": "orchestration",
+    "category": "研究编排",
+    "color": "#7c9070",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa",
+    "size_kb": 25552,
+    "files": 130,
+    "source": "installed",
+    "download": "downloads/huashu-nuwa.zip"
   },
   {
     "name": "kautoresearch",
@@ -887,6 +966,7 @@
     "path": "/Users/tedmiao/.claude/skills/kautoresearch",
     "size_kb": 28,
     "files": 1,
+    "source": "installed",
     "download": "downloads/kautoresearch.zip"
   },
   {
@@ -909,6 +989,7 @@
     "path": "/Users/tedmiao/.claude/skills/kenmoe",
     "size_kb": 25,
     "files": 1,
+    "source": "installed",
     "download": "downloads/kenmoe.zip"
   },
   {
@@ -922,7 +1003,24 @@
     "path": "/Users/tedmiao/.claude/skills/research",
     "size_kb": 1,
     "files": 1,
+    "source": "installed",
     "download": "downloads/research.zip"
+  },
+  {
+    "name": "tedmoe",
+    "desc": "Tedmoe · 深度思想家委员会引擎。扫描本地已蒸馏的人物视角 skill 库（女娲 examples + 用户安装的 *-perspective）， 按问题自动挑 3-5 位真实人物（库克、马斯克、芒格、费曼、Naval、塔勒布、Jobs、PG、张一鸣、Karpathy、Ilya、特朗普、MrBeast、孙宇晨、张雪峰、X 导师等 16+ 候选）， 并行 spawn agent 让每位用自己的\"思维操作系统\"独立分析，最后合成加权裁决报告。 与 kenmoe 互补：kenmoe 走广度撒网（任意主题快速辩论，临时角色），tedmoe 走深度审视（真实人物深度视角，可复现质量）。 触发词：「tedmoe」「思想家委员会」「专家委员会」「深度版 moe」「叫上 XX 几个人讨论」「找几个人物视角讨论」「真实人物视角辩论」。 也触发：「用库克、芒格、Naval 三个人讨论...」「叫上 Jobs 和 Musk...」「开一个 3 人的深度审视会」。 不触发（让 kenmoe 接管）：「来个辩论」「正反方各说说」「专家陪审团」「mixture of experts」——这些是 kenmoe 的广度场景。 不触发（让单个 perspective skill 接管）：用户只想要一个人的视角（\"用库克视角分析\"）。",
+    "overview": "> \"kenmoe 帮你听到很多声音；tedmoe 帮你听到几个真正听过的声音。\"",
+    "triggers": [
+      "用库克视角分析"
+    ],
+    "category_id": "orchestration",
+    "category": "研究编排",
+    "color": "#7c9070",
+    "path": "/Users/tedmiao/.claude/skills/tedmoe",
+    "size_kb": 14,
+    "files": 1,
+    "source": "installed",
+    "download": "downloads/tedmoe.zip"
   },
   {
     "name": "workflow-runner",
@@ -935,6 +1033,394 @@
     "path": "/Users/tedmiao/.claude/skills/workflow-runner",
     "size_kb": 6,
     "files": 1,
+    "source": "installed",
     "download": "downloads/workflow-runner.zip"
+  },
+  {
+    "name": "andrej-karpathy-perspective",
+    "desc": "Andrej Karpathy的思维框架与表达方式。基于20+篇博文、16段深度访谈、100+条X帖子的系统蒸馏， 提炼6个核心心智模型、8条决策启发式、完整的中文输出适配和经典句式速查。 用途：作为思维顾问，用Karpathy的视角分析AI技术可靠性、学习方法、行业趋势、产品设计。 当用户提到「用Karpathy的视角」「Karpathy会怎么看」「卡帕西」「karpathy模式」时使用。 也适用于：Software 2.0/3.0讨论、vibe coding话题、神经网络训练、AI炒作判断、LLM能力边界。 即使用户只是说「从工程现实主义角度」「march of nines」「构建即理解」「锯齿状智能」也可触发。 不在用户只是普通问AI相关问题时触发——只在明确想要Karpathy式思维框架时激活。",
+    "overview": "> 蒸馏自：20+篇博文、Lex Fridman/Dwarkesh Patel等16段访谈、100+条X帖子、GitHub项目README > 调研截止：2026-04-05",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/andrej-karpathy-perspective",
+    "size_kb": 101,
+    "files": 7,
+    "source": "nuwa_example",
+    "download": "downloads/andrej-karpathy-perspective.zip"
+  },
+  {
+    "name": "aswath-damodaran-perspective",
+    "desc": "Aswath Damodaran（NYU Stern 金融教授，\"the Dean of Valuation\"）的思维操作系统。 基于其 NYU 个人主页、《Investment Valuation》《Narrative and Numbers》《The Corporate Life Cycle》等著作、 Musings on Markets 博客（2008 至今每周更新）、@AswathDamodaran 推特、多次长访谈的精简调研。 提炼 7 个核心心智模型、10 条决策启发式、表达 DNA、5 对核心张力。 用途：作为思维顾问，用 Damodaran 的视角分析估值、投融资、叙事数字校验、不确定性管理类问题。 当用户提到「用 Damodaran 视角」「Damodaran 会怎么看」「估值大师视角」「Damodaran perspective」时使用。 即使用户只说「帮我用 Damodaran 角度想想」「叙事 + 数字怎么看 X」「Story to numbers」也应触发。 特别擅长：DCF 估值与替代方法、叙事-数字校验、公司生命周期判断、value vs price 区分、country risk premium、面对不确定性的诚实姿态、识别\"新指标\"陷阱。 不适合：短期股价预测（他不做）、宏观预测（他不做）、技术分析（他不做）、加密货币\"价值\"判断（他认定为范畴错误）、纯定性的行业洞察（他是 generalist）。",
+    "overview": "> \"Success in investing comes not from being right but from being wrong less often than everyone else.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/aswath-damodaran-perspective",
+    "size_kb": 14,
+    "files": 1,
+    "source": "installed",
+    "download": "downloads/aswath-damodaran-perspective.zip"
+  },
+  {
+    "name": "elon-musk-perspective",
+    "desc": "马斯克的思维操作系统。基于传记、播客、推文、法庭证词、决策记录和外部批评的深度调研， 提炼5个核心心智模型、8条决策启发式和完整的表达DNA。 用途：作为思维顾问，用马斯克的视角分析问题、审视决策、拆解成本结构、挑战行业假设。 当用户提到「用马斯克的视角」「马斯克会怎么看」「Musk模式」「马斯克perspective」「elon perspective」时使用。 即使用户只是说「这个成本合理吗」「从第一性原理想想」「白痴指数是多少」「五步算法」「能不能垂直整合」也可触发。 不要在用户只是问「能不能更快」「流程有必要吗」等一般性问题时触发——只在涉及成本拆解、第一性原理、激进迭代等马斯克核心方法论时激活。",
+    "overview": "> \"The only rules you have to follow are the laws of physics — everything else is a recommendation.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/elon-musk-perspective",
+    "size_kb": 71,
+    "files": 5,
+    "source": "nuwa_example",
+    "download": "downloads/elon-musk-perspective.zip"
+  },
+  {
+    "name": "feynman-perspective",
+    "desc": "理查德·费曼的思维框架与表达方式。基于40+个一手来源的深度调研， 提炼5个核心心智模型、8条决策启发式和完整的表达DNA。 用途：作为思维顾问，用费曼的视角分析问题、审视决策、提供反馈。 当用户提到「用费曼的视角」「费曼会怎么看」「费曼模式」「feynman perspective」「费曼学习法」时使用。 即使用户只是说「这是不是cargo cult」「命名不等于理解」「能不能做个演示替代论证」「我真的理解了还是只记住了名字」也可触发。 不要在用户只是说「帮我解释一下」「用简单的话说」等一般性请求时触发——只在涉及费曼式验证（货物崇拜检测、命名vs理解、反自欺）时激活。",
+    "overview": "> \"The first principle is that you must not fool yourself — and you are the easiest person to fool.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/feynman-perspective",
+    "size_kb": 108,
+    "files": 7,
+    "source": "nuwa_example",
+    "download": "downloads/feynman-perspective.zip"
+  },
+  {
+    "name": "howard-marks-perspective",
+    "desc": "Howard Marks（Oaktree Capital 创始人，\"备忘录之王\"，亿万美元 distressed debt 之父）的思维操作系统。 基于 1990 至今 Oaktree Memos 约 150 篇全文、《The Most Important Thing》《Mastering the Market Cycle》著作、 Tim Ferriss / Bloomberg / Real Vision 等长访谈的精简调研。 提炼 7 个核心心智模型、10 条决策启发式、表达 DNA、5 对核心张力。 用途：作为思维顾问，用 Marks 的视角分析周期判断、风险 vs 波动、二级思考、市场情绪、不对称收益、攻守切换类问题。 当用户提到「用 Howard Marks 视角」「Marks 会怎么看」「备忘录之王」「Marks perspective」时使用。 即使用户只说「帮我用 Marks 角度想想」「现在市场在周期哪里」「二级思考 X」也应触发。 特别擅长：市场周期定位、风险定义与管理、债券/distressed debt 视角、识别泡沫与恐慌、attacker vs defender 切换、识别\"this time is different\"陷阱。 不适合：短期价格预测（他不做）、宏观预测（他不做）、技术分析（他不做）、加密货币深度判断、个股技术细节（他承认能力圈外）。",
+    "overview": "> \"You can't predict. You can prepare.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/howard-marks-perspective",
+    "size_kb": 15,
+    "files": 1,
+    "source": "installed",
+    "download": "downloads/howard-marks-perspective.zip"
+  },
+  {
+    "name": "huang-shizhong-perspective",
+    "desc": "黄世忠（厦门大学管理学院 / 厦门国家会计学院教授、副院长，IFRS 咨询委员会委员、财政部会计准则委员会委员、第十四届全国人大代表）的思维操作系统。 中国财务舞弊识别 / ESG 信息披露 / 财务报表分析三大领域 No.1 学术权威。 基于《财务报表分析》《会计数字游戏》《八因八策》《交易造假型收入舞弊》等著作论文、新浪云顶财说 / 澎湃 / 腾讯人大专访 / 北大汇丰演讲等公开材料的精简调研。 提炼 6 个核心心智模型、10 条决策启发式、表达 DNA、5 对核心张力。 用途：作为思维顾问，用黄世忠的视角分析中国 A 股财务舞弊识别、财报可信度评估、关联交易识别、ESG 披露、审计独立性、上市公司治理类问题。 当用户提到「用黄世忠视角」「黄世忠会怎么看」「财务舞弊识别」「财报识别」「Huang Shizhong perspective」「八因八策」「五维度」时使用。 即使用户只说「帮我看这家公司财报有没有雷」「这个收入数据可信吗」「关联交易怎么识别」也应触发。 特别擅长：A 股财务造假识别（交易造假型尤其）、八因八策动机分析、五维度交叉验证、盈利质量/资产质量/现金流量三件套、第三方配合识别、ESG 双重重要性、审计独立性改革、独立董事制度。 不适合：具体股票\"买/卖\"建议（他不做）、宏观政策预测（他建言但不预测）、个人指控（不点名个人）、未定案争议、跨境税务筹划深度（不是他主战场）。",
+    "overview": "> \"就财务论财务是发现不了财务舞弊的，超过 75% 发现的舞弊来自非财务维度。\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huang-shizhong-perspective",
+    "size_kb": 17,
+    "files": 1,
+    "source": "installed",
+    "download": "downloads/huang-shizhong-perspective.zip"
+  },
+  {
+    "name": "ian-cutress-perspective",
+    "desc": "Dr. Ian Cutress（伊恩·卡特斯，原 AnandTech Senior Editor 2011-2022、现 More Than Moore 创始人兼 Chief Analyst、 TechTechPotato YouTube 主持人）的思维操作系统。 基于 11 年 AnandTech 长文档案（Zen 系列 / Apple M1 / Sapphire Rapids / Intel 工艺改名等代表作）、 4 年 More Than Moore Substack（Pat Gelsinger / Lisa Su / Jim Keller 系列长访谈）、 @IanCutress 推文 DNA、HPCpodcast Ep100 / RAISE Summit 2025 等客串、 Oxford computational chemistry PhD 智识底色、约 1245 行调研， 提炼 6 个核心心智模型、9 条决策启发式、12 类表达 DNA 规则、5 对核心张力。 用途：作为思维顾问，用 Ian 的视角分析半导体架构 / 工艺节点 / chiplet / advanced packaging / 独立分析师商业模式 / \"PR 话术 vs 技术现实\"对比类问题。 当用户提到「用 Ian Cutress 视角」「Ian 会怎么看」「Cutress 模式」「More Than Moore perspective」 「TechTechPotato 视角」「@IanCutress 怎么看」时使用。 即使用户只说「帮我用 Ian 的角度想想」「如果是 Ian Cutress 会怎么评这块芯片」「切到 Cutress」也应触发。 特别擅长：CPU/GPU 架构 deep-dive、工艺节点 marketing 名称解码、chiplet/tile/advanced packaging 拆解、 benchmark 方法论批判、die shot / floor plan 读取、Intel/AMD/Apple/NV/TSMC/Samsung 工艺路线对比、 fab 经济学（yield / wafer cost / HVM ramp）、独立分析师商业模式与可信度建设。 不适合：市场份额/出货量/ASP 分析（那是 Neil Shah / Counterpoint 领域）； 财务建模 / 股价预测（那是 Stacy Rasgon / sell-side 领域）； 软件栈 / 编译器 / runtime 深度（他本人公开承认是弱区）； AGI / 远期 AI 哲学（他刻意回避，超出诚实边界）； 产品 UX / 美学（不是他的覆盖区，那是 Jobs 领域）。",
+    "overview": "> \"Marketing name aside, the actual transistor density is...\" > —— Ian Cutress, 跨多篇 AnandTech 文章 + 多个 Substack essay 的标志性句式",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/ian-cutress-perspective",
+    "size_kb": 122,
+    "files": 7,
+    "source": "installed",
+    "download": "downloads/ian-cutress-perspective.zip"
+  },
+  {
+    "name": "ilya-sutskever-perspective",
+    "desc": "Ilya Sutskever的思维框架与表达方式。基于12段一手对话、9篇学术论文、10小时宣誓证词、 27篇推荐阅读清单和14个权威二手来源的深度调研， 提炼6个核心心智模型、8条决策启发式和完整的表达DNA。 用途：作为思维顾问，用Ilya的视角分析AI技术方向、安全策略、研究品味。 当用户提到「用Ilya的视角」「Ilya会怎么看」「Ilya模式」「ilya perspective」 「sutskever perspective」时使用。 即使用户只是说「帮我用Ilya的角度想想」「如果Ilya会怎么做」「切换到Ilya」也应触发。",
+    "overview": "> \"I'm not saying how. And I'm not saying when. I'm saying that it will.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/ilya-sutskever-perspective",
+    "size_kb": 129,
+    "files": 7,
+    "source": "nuwa_example",
+    "download": "downloads/ilya-sutskever-perspective.zip"
+  },
+  {
+    "name": "jensen-huang-perspective",
+    "desc": "黄仁勋（Jensen Huang，NVIDIA 创始人 CEO）的思维操作系统。 基于 60+ 个一手来源（Acquired 播客、Stratechery 5 篇深访、Lex Fridman #494、Stanford GSB、 Caltech/CMU 毕业演讲、Tae Kim《The Nvidia Way》、Stephen Witt《The Thinking Machine》、 GTC/Computex/CES keynote 系列、Fortune/Bloomberg 长稿、16 个重大决策、1963-2026 完整时间线）的深度调研， 提炼 7 个核心心智模型、10 条决策启发式、11 类表达 DNA 规则、5 对核心张力。 用途：作为思维顾问，用黄仁勋的视角分析战略/运营/组织/产品/危机/长期赌注类问题。 当用户提到「用黄仁勋视角」「Jensen 会怎么看」「黄仁勋模式」「Jensen Huang perspective」 「NVIDIA way」「老黄怎么想」时使用。 即使用户只说「帮我用老黄角度想想」「如果是 Jensen 会怎么做」「切到黄仁勋」也应触发。 特别擅长：长期赌注（10 年级别）、加速/专用 vs 通用的边界判断、组织扁平化与信息直达、 危机叙事与运营节奏、不与客户竞争的战略克制、公开复盘与智识诚实、运营驱动的护城河构建。 不适合：纯产品美学判断（Jobs 领域）、人文哲学深度（芒格领域）、颠覆式叙事美学（Musk 领域）、 消费心理与营销话术（MrBeast 领域）。",
+    "overview": "> \"I wish upon you ample doses of pain and suffering.\" > ——给斯坦福毕业生的祝福，2024 年 3 月",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/jensen-huang-perspective",
+    "size_kb": 132,
+    "files": 7,
+    "source": "installed",
+    "download": "downloads/jensen-huang-perspective.zip"
+  },
+  {
+    "name": "lisa-su-perspective",
+    "desc": "苏姿丰（Lisa Su，AMD 董事长兼 CEO，2014-至今）的思维操作系统。 基于 20+ keynote 与署名演讲、12+ 长访谈与播客、30+ 推文/财报会语料、30+ 媒体长稿与独立分析师评价、13 个重大决策、1969-2026 完整时间线的深度调研， 提炼 6 个核心心智模型、10 条决策启发式、12 类表达 DNA 规则、5 对核心张力。 用途：作为思维顾问，用苏妈的视角分析运营/路线图/客户共建/系统级整合/长周期资本配置/技术追赶类问题。 当用户提到「用苏姿丰视角」「Lisa Su 会怎么看」「苏妈模式」「Lisa Su perspective」「AMD 路线图思维」时使用。 即使用户只说「帮我用苏妈角度想想」「如果是 Lisa Su 会怎么做」「切换到苏姿丰」也应触发。 特别擅长：5 年路线图规划、客户深度共建、追赶领先者、工程驱动的商业决策、系统级垂直整合、长周期收购整合、面对软件 / 生态短板的实事求是路径。 不适合：颠覆式新品类创造（这是 Jobs / Musk 的领域）、戏剧化愿景叙事（这是 Jensen 的领域）、纯品牌价值观议题（这是 Cook 的领域）、AGI / 加密货币等指数式预言场景。",
+    "overview": "> \"Run toward the hardest problems—not walk, run—and that's where you find the biggest opportunities, where you learn the most, where you set yourself apart, and most importantly, where you grow.\" > —— RPI Commencement 2025（引用 IBM 时期师傅 John Kelly）",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/lisa-su-perspective",
+    "size_kb": 123,
+    "files": 7,
+    "source": "installed",
+    "download": "downloads/lisa-su-perspective.zip"
+  },
+  {
+    "name": "luo-yonghao-perspective",
+    "desc": "罗永浩（老罗，1972- ）的思维操作系统。 基于 6 维深度调研——5 本/卷自传与发布会准著作、9 小时长谈/3 小时优酷直播/14+ 期播客《罗永浩的十字路口》、20 年微博与发布会语料、 20+ 篇权威媒体长报道（36 氪/晚点/虎嗅/澎湃/第一财经/新京报/新华网/腾讯新闻）、12 个关键决策、1972-2026 完整时间线—— 提炼 6 个核心心智模型、9 条决策启发式、10 类表达 DNA 规则、5 对核心张力。 用途：作为思维顾问，用老罗的视角分析产品工艺、创业失败叙事、危机公关、舆论对抗、表达与说服、信用与还债类问题。 当用户提到「用罗永浩视角」「老罗会怎么看」「罗永浩模式」「Luo Yonghao perspective」「老罗的角度」时使用。 即使用户只说「用老罗的角度想想」「如果是老罗会怎么做」「切到罗永浩」也应触发。 特别擅长：工艺/审美/设计细节的判断、失败的重新叙事、戏剧化舆论抗争、表达与演讲、信用资产的运营、自嘲式权威的构建、把人生当作品做的人生策略。 不适合：宏观投资判断（这是芒格领域）、纯技术架构判断（这是 Karpathy/Wozniak 领域）、纯运营管理（库克领域）——老罗本人不擅长这些，他自己也承认。",
+    "overview": "> \"**我不是为了输赢，我就是认真**。\" > \"**生命不息，折腾不止**。\" > \"**通过实现理想让人相信实现理想是可能的**。\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/luo-yonghao-perspective",
+    "size_kb": 108,
+    "files": 7,
+    "source": "installed",
+    "download": "downloads/luo-yonghao-perspective.zip"
+  },
+  {
+    "name": "mrbeast-perspective",
+    "desc": "MrBeast（Jimmy Donaldson）的内容创造操作系统。基于泄露的36页内部培训手册、 6个深度播客、决策记录和外部批评的深度调研，提炼6个核心心智模型、8条决策启发式、 完整的标题/缩略图/Hook/节奏公式，和4个可运行的内容分析脚本。 激活后沉浸式扮演MrBeast，直接以「我」的视角给出内容创作建议。 当用户提到「用MrBeast的视角」「MrBeast会怎么做」「Beast模式」「mrbeast perspective」时使用。 即使用户只是说「视频CTR怎么提升」「标题不够吸引人」「retention曲线怎么优化」「缩略图要改吗」也应触发。 不要在用户只是说「内容创作建议」「怎么做内容」等一般性问题时触发——只在涉及视频优化、标题/缩略图/Hook/留存率等YouTube方法论时激活。",
+    "overview": "> \"I don't think of myself as a YouTuber. I think of myself as someone who is obsessed with making the best possible video.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/mrbeast-perspective",
+    "size_kb": 149,
+    "files": 10,
+    "source": "nuwa_example",
+    "download": "downloads/mrbeast-perspective.zip"
+  },
+  {
+    "name": "munger-perspective",
+    "desc": "查理·芒格的思维框架与表达方式。基于《穷查理宝典》、伯克希尔/Daily Journal股东会、 USC/哈佛演讲、访谈记录、外部批评等50+来源的深度调研， 提炼5个核心心智模型、8条决策启发式和完整的表达DNA。 用途：作为思维顾问，用芒格的视角分析问题、审视决策、提供反馈。 当用户提到「用芒格的视角」「芒格会怎么看」「芒格模式」「munger perspective」时使用。 也适用于：投资决策审视、认知偏误检查、跨学科思考训练、逆向思考练习。 即使用户只是说「逆向思考一下」「这有什么认知偏误」「Lollapalooza效应」「能力圈之外」「激励结构是什么」也可触发。 不要在用户只是问「这个决策靠谱吗」「帮我找盲点」等一般性问题时触发——只在涉及逆向思考、认知偏误、跨学科分析等芒格核心方法论时激活。",
+    "overview": "> \"It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/munger-perspective",
+    "size_kb": 61,
+    "files": 5,
+    "source": "nuwa_example",
+    "download": "downloads/munger-perspective.zip"
+  },
+  {
+    "name": "naval-perspective",
+    "desc": "Naval Ravikant的思维操作系统。基于著作、播客、推文、决策记录和外部批评的深度调研， 提炼5个核心心智模型、8条决策启发式和完整的表达DNA。 激活后沉浸式扮演Naval，直接以「我」的视角回应问题。 当用户提到「用Naval的视角」「Naval会怎么看」「纳瓦尔模式」「Naval perspective」「切换到Naval」时使用。 即使用户只是说「这份工作有杠杆吗」「什么是specific knowledge」「什么是真正的财富」「欲望太多怎么办」「无需许可的路径」也可触发。 不要在用户只是问「我该怎么选择」「帮我想清楚」等一般性决策问题时触发——只在涉及杠杆/特定知识/欲望管理/财富定义等Naval核心概念时激活。",
+    "overview": "> \"Seek wealth, not money or status. Wealth is having assets that earn while you sleep.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/naval-perspective",
+    "size_kb": 83,
+    "files": 5,
+    "source": "nuwa_example",
+    "download": "downloads/naval-perspective.zip"
+  },
+  {
+    "name": "neil-shah-perspective",
+    "desc": "Neil Shah（尼尔·沙阿，Counterpoint Research 联合创始人、合伙人、研究副总裁）的思维操作系统。 基于 18 年公开追踪、15+ 一手访谈与播客、40+ 媒体引用、招牌 X (@neiltwitz) 与 LinkedIn (@meetneilshah) 公开发声、 10 个关键市场 call、2008-2026 完整时间线的深度调研， 提炼 5 个核心心智模型、7 条决策启发式、10 条表达 DNA 规则、3 对核心张力。 用途：作为思维顾问，用 Neil Shah 的视角分析智能手机/半导体/IoT/5G/印度市场/AI 设备等科技产业链问题。 当用户提到「用 Neil Shah 视角」「Counterpoint 视角」「印度智能手机分析」「smartphone shipments forecast」 「Neil Shah perspective」「亚洲科技市场分析师视角」时使用。 即使用户只说「用 Counterpoint 的角度看」「分析师怎么看 iPhone 印度」「切到 Neil Shah」也应触发。 特别擅长：手机/PC/wearable 出货量与 ASP 分析、印度+全球交叉视角、premiumization 趋势、 Apple/Samsung/Xiaomi/OPPO/Vivo 品牌战略、半导体供应链、5G/IoT 商业化、AI 手机渗透节奏、 地缘政治与 PLI/tariff 对产业链影响。 不适合：企业战略咨询（不是麦肯锡）、公司估值与股票推荐（不是 sell-side equity）、 产品 UX/美学判断（不是 Jobs 领域）、消费者深度心理研究（不是 GfK/Kantar 领域）、 AGI/未来主义大叙事（不是 Kurzweil/Altman 领域）。",
+    "overview": "> \"The ONLY chart you need to see how competitive is the smartphone market. The gap continues to widen between Apple and the rest of the industry going from volume to value captured.\" > —— Neil Shah, X (@neiltwitz), 2022-09",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/neil-shah-perspective",
+    "size_kb": 91,
+    "files": 7,
+    "source": "installed",
+    "download": "downloads/neil-shah-perspective.zip"
+  },
+  {
+    "name": "paul-graham-perspective",
+    "desc": "Paul Graham的思维框架与表达方式。基于200+篇essays、12个播客/访谈、 Twitter/X分析、7位核心批评者视角和完整人生时间线的深度调研， 提炼5个核心心智模型、8条决策启发式和完整的表达DNA。 用途：作为思维顾问，用PG的视角分析创业、写作、产品和人生选择。 当用户提到「用PG的视角」「Paul Graham会怎么看」「PG模式」「paul graham perspective」时使用。 即使用户只是说「帮我用PG的角度想想」「如果PG会怎么做」「切换到PG」也应触发。",
+    "overview": "> \"Writing doesn't just communicate ideas; it generates them.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/paul-graham-perspective",
+    "size_kb": 163,
+    "files": 7,
+    "source": "nuwa_example",
+    "download": "downloads/paul-graham-perspective.zip"
+  },
+  {
+    "name": "steve-jobs-perspective",
+    "desc": "史蒂夫·乔布斯(Steve Jobs)的思维框架与表达方式。基于Isaacson授权传记、Stanford演讲、 Lost Interview、D Conference系列、Make Something Wonderful、30+一手来源的深度调研， 提炼6个核心心智模型、8条决策启发式和完整的表达DNA。 用途：作为思维顾问，用乔布斯的视角分析产品、审视决策、提供反馈。 当用户提到「用乔布斯的视角」「乔布斯会怎么看」「Jobs模式」「steve jobs perspective」时使用。 即使用户只是说「帮我用乔布斯的角度想想」「如果乔布斯会怎么做」「切换到乔布斯」也应触发。",
+    "overview": "> \"Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/steve-jobs-perspective",
+    "size_kb": 183,
+    "files": 8,
+    "source": "nuwa_example",
+    "download": "downloads/steve-jobs-perspective.zip"
+  },
+  {
+    "name": "sun-yuchen-perspective",
+    "desc": "孙宇晨（Justin Sun / 孙割）的思维框架与行为逻辑。基于6个维度（著作、深度采访、表达DNA、 他者视角、决策记录、时间线）共1500+行调研素材的深度蒸馏， 提炼6个核心心智模型、8条决策启发式、5种割味造句公式和完整的表达DNA。 用途：作为思维顾问，用孙宇晨的视角分析营销策略、注意力经济、危机公关、叙事操控、蹭热点方法论。 割味十足的角色扮演——自大、暴论、碰瓷、数字轰炸、成功学底色。 当用户提到「用孙宇晨的视角」「孙割会怎么做」「孙宇晨模式」「Justin Sun perspective」「割神」时使用。 即使用户只是说「帮我用孙割的角度想想」「如果孙宇晨会怎么操作」「切换到割神」「用割的视角」也应触发。",
+    "overview": "> 「在一个99%的人不知道钱包为何物的市场，教育成本必须计入商业模型。」",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/sun-yuchen-perspective",
+    "size_kb": 166,
+    "files": 8,
+    "source": "nuwa_example",
+    "download": "downloads/sun-yuchen-perspective.zip"
+  },
+  {
+    "name": "taleb-perspective",
+    "desc": "塔勒布(Nassim Nicholas Taleb)的思维框架与表达方式。基于40+个来源的深度调研， 提炼6个核心心智模型、9条决策启发式和完整的表达DNA。 用途：作为思维顾问，用塔勒布的视角分析问题、审视决策、质疑主流叙事。 当用户提到「用塔勒布的视角」「塔勒布会怎么看」「塔勒布模式」「反脆弱视角」「taleb perspective」时使用。 即使用户只是说「会不会黑天鹅」「这个有尾部风险吗」「skin in the game」「有没有反脆弱的方法」「杠铃策略怎么用」也可触发。 不要在用户只是做一般风险评估或问「靠不靠谱」时触发——只在涉及极端风险、反脆弱、预防原则等塔勒布核心概念时激活。",
+    "overview": "> \"Don't cross a river if it is four feet deep on average.\"",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/taleb-perspective",
+    "size_kb": 98,
+    "files": 7,
+    "source": "nuwa_example",
+    "download": "downloads/taleb-perspective.zip"
+  },
+  {
+    "name": "tim-cook-perspective",
+    "desc": "蒂姆·库克（Tim Cook，Apple CEO 2011-2026）的思维操作系统。 基于 30+ 演讲与 op-ed、17 个长访谈、35+ 推特/keynote、50+ 传记与调查报道、34 个重大决策、1960-2026 完整时间线的深度调研， 提炼 6 个核心心智模型、10 条决策启发式、14 条表达 DNA 规则、6 对核心张力。 用途：作为思维顾问，用库克的视角分析运营、供应链、战略、组织、危机公关、价值观-商业冲突类问题。 当用户提到「用库克视角」「Tim Cook 会怎么看」「库克模式」「Cook perspective」「苹果运营思维」时使用。 即使用户只说「帮我用库克角度想想」「如果是库克会怎么做」「切换到库克」也应触发。 特别擅长：运营/供应链决策、长期主义 vs 短期压力、团队冲突、监管应对、价值观与商业利益冲突、接班与组织传承。 不适合：颠覆式创新构思、AGI 等指数式跳跃判断、纯产品体验感觉判断（这些是 Jobs 的领域）。",
+    "overview": "> \"I'm not worried about artificial intelligence giving computers the ability to think like humans. I'm more concerned about people thinking like computers — without values or compassion, without concern for consequences.\" > —— MIT Commencement 2017",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/tim-cook-perspective",
+    "size_kb": 129,
+    "files": 7,
+    "source": "installed",
+    "download": "downloads/tim-cook-perspective.zip"
+  },
+  {
+    "name": "trump-perspective",
+    "desc": "唐纳德·特朗普（Donald Trump）的思维框架与行为逻辑。基于著作、长访谈、辩论、 心理分析、前幕僚回忆录、重大决策记录共6个维度的深度调研（320KB+原始资料）， 提炼6个核心心智模型、8条决策启发式和完整的表达DNA。 用途：（1）思维顾问——用特朗普视角分析谈判、权力、传播问题； （2）行为预判——解读他的公开行为背后的逻辑，预判下一步动作； （3）角色扮演——模拟特朗普在特定场景下的决策和表达。 当用户提到「用懂王视角」「特朗普会怎么看」「懂王逻辑」「trump perspective」 「懂王会怎么做」「从特朗普角度分析」「预测特朗普」时触发。",
+    "overview": "> \"I aim very high, and then I just keep pushing and pushing and pushing to get what I'm after. Sometimes I settle for less than I sought, but in most cases I still end up with what I want.\" > ——The Art of the Deal, 1987",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/trump-perspective",
+    "size_kb": 279,
+    "files": 7,
+    "source": "nuwa_example",
+    "download": "downloads/trump-perspective.zip"
+  },
+  {
+    "name": "x-mastery-mentor",
+    "desc": "$10K/hr级X/Twitter运营导师。基于Nicolas Cole、Dickie Bush、Sahil Bloom、Justin Welsh、 Dan Koe、Alex Hormozi六位顶级创作者的方法论 + X开源算法深度分析 + AI/科技赛道专精策略， 提炼6个核心心智模型、10条决策启发式、完整的选题-写作-增长操作手册。 通用方法论为底座，AI/科技赛道为专精。 当用户提到「X运营」「推特」「Twitter」「怎么写推文」「怎么涨粉」「X策略」「推特选题」「tweet」「thread」「X算法」时使用。 即使用户只是说「这条推文怎么写」「帮我想个X内容」「推特增长」「发推」「write a tweet」「X account」「grow on X」也应触发。",
+    "overview": "> 「格式化是你能对写作做的最简单的10倍提升。」——Nicolas Cole",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/x-mastery-mentor",
+    "size_kb": 166,
+    "files": 12,
+    "source": "nuwa_example",
+    "download": "downloads/x-mastery-mentor.zip"
+  },
+  {
+    "name": "zhang-yiming-perspective",
+    "desc": "张一鸣（字节跳动/TikTok创始人）的思维框架与表达方式。基于6个维度（著作、深度访谈、 表达DNA、他者视角、决策记录、时间线）的调研，涵盖32个访谈片段、12个重大决策案例， 提炼5个核心心智模型、7条决策启发式和完整的表达DNA。 用途：作为思维顾问，用张一鸣的视角分析产品、组织、全球化、人才和个人成长问题。 当用户提到「用张一鸣的视角」「张一鸣会怎么看」「一鸣的思路」「zhang yiming perspective」时使用。 即使用户只是说「帮我用张一鸣的角度想想」「如果是字节会怎么做」「切换到张一鸣」也应触发。 即使用户说「字节怎么看」「头条的逻辑」「一鸣怎么选择」「一鸣」也应触发。",
+    "overview": "> 「平庸有重力，需要逃逸速度。」——张一鸣，2010年微博签名，此后十余年未改",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/zhang-yiming-perspective",
+    "size_kb": 110,
+    "files": 7,
+    "source": "nuwa_example",
+    "download": "downloads/zhang-yiming-perspective.zip"
+  },
+  {
+    "name": "zhangxuefeng-perspective",
+    "desc": "张雪峰的思维框架与表达方式。基于5本著作、15+篇权威媒体深度采访、 30+条一手语录、11个关键决策记录和完整人生时间线的深度调研， 提炼5个核心心智模型、8条决策启发式和完整的表达DNA。 用途：作为思维顾问，用张雪峰的视角分析教育选择、职业规划、阶层流动等问题。 当用户提到「用张雪峰的视角」「张雪峰会怎么看」「张雪峰模式」「雪峰视角」时使用。 即使用户只是说「帮我用张雪峰的角度想想」「如果张雪峰会怎么说」「切换到张雪峰」也应触发。",
+    "overview": "> 「选择比努力更重要，但'有得选'的前提是你足够努力。」",
+    "triggers": [],
+    "category_id": "perspective",
+    "category": "人物视角",
+    "color": "#8b6fb1",
+    "path": "/Users/tedmiao/.claude/skills/huashu-nuwa/examples/zhangxuefeng-perspective",
+    "size_kb": 75,
+    "files": 7,
+    "source": "nuwa_example",
+    "download": "downloads/zhangxuefeng-perspective.zip"
+  },
+  {
+    "name": "kendiag",
+    "desc": "专业图表生成技能：根据需求自动选择合适的图表类型，默认输出 HTML（PNG 按需）。 覆盖 30 种图表：结构图（流程图、泳道图、时序图、架构图、状态图、ER图、类图、思维导图、甘特图等）、 统计图（柱状图、折线图、饼图、雷达图、热力图、桑基图、散点图等）、 竞争分析图（象限定位、BCG矩阵、波特五力、价值链）。 统一工具：HTML/SVG + 内联 JS 布局计算。ER/类图使用 ELKjs 布局引擎。 所有图表遵循统一的设计规范（配色/字体/组件/间距），风格现代简洁。 支持三种输出：PNG（默认）、HTML（富文档嵌入）、DSL（Mermaid/Graphviz 文本，嵌入 MD 文档）。 三 Theme：默认（Tailwind 风格）+ Professional（Dual-Blue 企业级）+ Blueprint（工程蓝图，含 Light/Dark 变体）。 Annotation 层：Callout 标注、Data Badge、关键路径高亮、趋势指示器、峰谷标记。 与 kendresearch/kenwar/kencourse/wxcomanaly 无缝协同，支持批量渲染。 触发词：画图、画一个、生成图表、流程图、架构图、时序图、柱状图、对比图、关系图、五力、象限、蓝图、blueprint。 即使用户没有说\"画图\"，只要需求中涉及可视化展示（流程、架构、数据对比、关系），都应触发此技能。 被 deep-research 等其他技能调用时，同样遵循本规范生成图表。",
+    "overview": "> 用自然语言描述需求，自动生成专业的 PNG 图表，直接嵌入 Markdown 文档。",
+    "triggers": [
+      "：画图",
+      "画一个",
+      "生成图表",
+      "流程图",
+      "架构图",
+      "时序图",
+      "柱状图",
+      "对比图"
+    ],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/kendiag",
+    "size_kb": 1743,
+    "files": 217,
+    "source": "installed",
+    "download": "downloads/kendiag.zip"
+  },
+  {
+    "name": "ppt-master",
+    "desc": "AI-driven multi-format SVG content generation system. Converts source documents (PDF/DOCX/URL/Markdown) into high-quality SVG pages and exports to PPTX through multi-role collaboration. Use when user asks to \"create PPT\", \"make presentation\", \"生成PPT\", \"做PPT\", \"制作演示文稿\", or mentions \"ppt-master\".",
+    "overview": "> AI-driven multi-format SVG content generation system. Converts source documents into high-quality SVG pages through multi-role collaboration and exports to PPTX.",
+    "triggers": [],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/ppt-master",
+    "size_kb": 316581,
+    "files": 23994,
+    "source": "installed",
+    "download": ""
+  },
+  {
+    "name": "qiaomu-anything-to-notebooklm",
+    "desc": "多源内容智能处理器：支持微信公众号、网页、YouTube、播客（小宇宙/喜马拉雅）、PDF、Markdown等，自动上传到NotebookLM并生成播客/PPT/思维导图等多种格式。支持深度分析模式和飞书文档自动创建",
+    "overview": "自动从多种来源获取内容，上传到 NotebookLM，并根据自然语言指令生成播客、PPT、思维导图等多种格式。",
+    "triggers": [],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/qiaomu-anything-to-notebooklm",
+    "size_kb": 463259,
+    "files": 18021,
+    "source": "installed",
+    "download": ""
   }
 ]
