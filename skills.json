@@ -1398,14 +1398,14 @@
   {
     "name": "ppt-master",
     "desc": "AI-driven multi-format SVG content generation system. Converts source documents (PDF/DOCX/URL/Markdown) into high-quality SVG pages and exports to PPTX through multi-role collaboration. Use when user asks to \"create PPT\", \"make presentation\", \"生成PPT\", \"做PPT\", \"制作演示文稿\", or mentions \"ppt-master\".",
-    "overview": "> AI-driven multi-format SVG content generation system. Converts source documents into high-quality SVG pages through multi-role collaboration and exports to PPTX.",
+    "overview": "> [!IMPORTANT] > ## 🔧 Local Install Note (tedmiao 本地配置) > > Python dependencies are installed in a per-skill venv at `${SKILL_DIR}/.venv/`. > When this SKILL.md says `python3 ${SKILL_DIR}/scripts/...`, you MUST run it as > `${SKILL_DIR}/.venv/bin/python ${SKILL_DIR}/scripts/...` instead — the system > `python3` does not have python-pptx / PyMuPDF / edge-tts / etc. installed. > > The optional `svgl",
     "triggers": [],
     "category_id": "other",
     "category": "其他",
     "color": "#888888",
     "path": "/Users/tedmiao/.claude/skills/ppt-master",
-    "size_kb": 316581,
-    "files": 23994,
+    "size_kb": 316954,
+    "files": 24013,
     "source": "installed",
     "download": ""
   },
