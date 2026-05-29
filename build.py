@@ -63,6 +63,13 @@ CATEGORIES = {
             "mcp-builder", "myframework",
         },
     },
+    "creative": {
+        "label": "创作/视觉",
+        "color": "#e08a9b",
+        "skills": {
+            "Ted-imgstyle",
+        },
+    },
     "orchestration": {
         "label": "研究编排",
         "color": "#7c9070",
@@ -80,7 +87,7 @@ CATEGORIES = {
 
 CATEGORY_EMOJI = {
     "finance": "📊", "chinese": "🇨🇳", "engineering": "🛠",
-    "meta": "🧩", "orchestration": "🎼", "perspective": "🎭", "other": "📦",
+    "meta": "🧩", "creative": "🎨", "orchestration": "🎼", "perspective": "🎭", "other": "📦",
 }
 
 
@@ -219,8 +226,13 @@ def count_files(p: Path) -> int:
 # GitHub 单文件上限 100 MB；超过此阈值的 skill 不打包（避免 push 失败）
 MAX_PACKAGE_MB = 95
 
+# 这些 skill 打包时排除指定子目录（如收藏的第三方原创图，不随下载包公开发布）
+PACKAGE_EXCLUDE = {
+    "Ted-imgstyle": {"reference", "outputs", "inbox"},
+}
 
-def package_skill(skill_dir: Path, name: str, size_kb: int) -> str:
+
+def package_skill(skill_dir: Path, name: str, size_kb: int, exclude_dirs: set[str] = frozenset()) -> str:
     # 跳过超大 skill（GitHub 100MB 限制）
     if size_kb > MAX_PACKAGE_MB * 1024:
         print(f"  ⚠ 跳过打包 {name}（{size_kb // 1024} MB，超过 {MAX_PACKAGE_MB}MB 上限）")
@@ -235,7 +247,10 @@ def package_skill(skill_dir: Path, name: str, size_kb: int) -> str:
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
         for f in skill_dir.rglob("*"):
             if f.is_file() and not f.name.startswith("."):
-                z.write(f, arcname=f"{name}/{f.relative_to(skill_dir)}")
+                rel = f.relative_to(skill_dir)
+                if rel.parts and rel.parts[0] in exclude_dirs:
+                    continue
+                z.write(f, arcname=f"{name}/{rel}")
     return f"downloads/{name}.zip"
 
 
@@ -326,7 +341,7 @@ def main() -> None:
             continue
         s = parse_skill(d)
         if s and s["name"] not in seen_names:
-            s["download"] = package_skill(d, s["name"], s["size_kb"])
+            s["download"] = package_skill(d, s["name"], s["size_kb"], PACKAGE_EXCLUDE.get(s["name"], frozenset()))
             skills.append(s)
             seen_names.add(s["name"])
 
@@ -339,7 +354,7 @@ def main() -> None:
             s = parse_skill(d)
             if s and s["name"] not in seen_names:
                 s["source"] = "nuwa_example"
-                s["download"] = package_skill(d, s["name"], s["size_kb"])
+                s["download"] = package_skill(d, s["name"], s["size_kb"], PACKAGE_EXCLUDE.get(s["name"], frozenset()))
                 skills.append(s)
                 seen_names.add(s["name"])
 
