@@ -11,7 +11,8 @@ set -euo pipefail
 LOG=/tmp/teds-sync.log
 
 # 检查最近 10 分钟内是否有 SKILL.md 变动
-RECENT=$(find "$HOME/.claude/skills" -name "SKILL.md" -mmin -10 2>/dev/null | head -1)
+# 注意用 find -L 跟随符号链接，否则软链进来的 skill（如 Ted-imgstyle、kendiag）检测不到
+RECENT=$(find -L "$HOME/.claude/skills" -name "SKILL.md" -mmin -10 2>/dev/null | head -1)
 
 if [ -z "$RECENT" ]; then
   # 无变化，安静跳过
