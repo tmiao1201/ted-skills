@@ -922,8 +922,8 @@
     "category": "创作/视觉",
     "color": "#e08a9b",
     "path": "/Users/tedmiao/.claude/skills/Ted-imgstyle",
-    "size_kb": 24747,
-    "files": 74,
+    "size_kb": 25258,
+    "files": 76,
     "source": "installed",
     "download": "downloads/Ted-imgstyle.zip"
   },
@@ -1417,6 +1417,20 @@
     "files": 217,
     "source": "installed",
     "download": "downloads/kendiag.zip"
+  },
+  {
+    "name": "ky-design-to-html",
+    "desc": "Convert visible UI references such as screenshots, exported mockups, Figma frame images, SaaS empty states, dashboards, and landing page screenshots into high-quality HTML/CSS by decomposing layout, separating visual assets from code-rendered UI, implementing the page, then validating with browser screenshots and iterative visual correction. Use when the user asks to recreate, copy, convert, or implement a visual design as HTML/CSS from an image or equivalent visual reference. Do not use for ordinary frontend feature work without a visual reference, designing new pages from text only, backend work, or pure image generation.",
+    "overview": "Do not jump directly from image to HTML.",
+    "triggers": [],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/ky-design-to-html",
+    "size_kb": 21,
+    "files": 5,
+    "source": "installed",
+    "download": "downloads/ky-design-to-html.zip"
   },
   {
     "name": "ppt-master",
