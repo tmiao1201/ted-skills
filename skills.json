@@ -1396,6 +1396,24 @@
     "download": "downloads/zhangxuefeng-perspective.zip"
   },
   {
+    "name": "chain-rotation",
+    "desc": "从一个旗舰科技产品的 BOM 增量逻辑出发，穿透多层供应链到上游原材料，对应 A 股/港股标的， 用 tsdata 拉真实财务 + 券商一致预期，做「兑现轮动 + 兑现-估值象限」投研分析并出可视化仪表盘。 触发词：「产业链兑现分析」「从 XX 产品看供应链/受益股」「供应链多层穿透」「兑现轮动」「BOM 拆到股票」 「XX 新品产业链 + 财务兑现」「谁兑现了谁还没」。 适用：有清晰产品锚点 + 清晰供应链的科技投资主题（AI 芯片 / 消费电子 / 新能源车 / 机器人 / 光伏等）。 不适用：没有产品锚点的宏观主题、纯题材炒作、一级市场、短线技术分析。",
+    "overview": "把\"一个旗舰新产品的成本结构变化\"翻译成\"哪些 A 股环节、哪些公司、什么时候兑现业绩\"，并用真实财务数据验证兑现到了哪一步、估值透支了没有。**核心信仰：不预测股价点位，只判断兑现阶段 + 方向 + 卖方一致预期区间，且每个数字都标清是\"实际 / 预期 / 我的判断\"。**",
+    "triggers": [
+      "纯题材炒作",
+      "一级市场",
+      "短线技术分析。"
+    ],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/chain-rotation",
+    "size_kb": 14,
+    "files": 2,
+    "source": "installed",
+    "download": "downloads/chain-rotation.zip"
+  },
+  {
     "name": "kendiag",
     "desc": "专业图表生成技能：根据需求自动选择合适的图表类型，默认输出 HTML（PNG 按需）。 覆盖 30 种图表：结构图（流程图、泳道图、时序图、架构图、状态图、ER图、类图、思维导图、甘特图等）、 统计图（柱状图、折线图、饼图、雷达图、热力图、桑基图、散点图等）、 竞争分析图（象限定位、BCG矩阵、波特五力、价值链）。 统一工具：HTML/SVG + 内联 JS 布局计算。ER/类图使用 ELKjs 布局引擎。 所有图表遵循统一的设计规范（配色/字体/组件/间距），风格现代简洁。 支持三种输出：PNG（默认）、HTML（富文档嵌入）、DSL（Mermaid/Graphviz 文本，嵌入 MD 文档）。 三 Theme：默认（Tailwind 风格）+ Professional（Dual-Blue 企业级）+ Blueprint（工程蓝图，含 Light/Dark 变体）。 Annotation 层：Callout 标注、Data Badge、关键路径高亮、趋势指示器、峰谷标记。 与 kendresearch/kenwar/kencourse/wxcomanaly 无缝协同，支持批量渲染。 触发词：画图、画一个、生成图表、流程图、架构图、时序图、柱状图、对比图、关系图、五力、象限、蓝图、blueprint。 即使用户没有说\"画图\"，只要需求中涉及可视化展示（流程、架构、数据对比、关系），都应触发此技能。 被 deep-research 等其他技能调用时，同样遵循本规范生成图表。",
     "overview": "> 用自然语言描述需求，自动生成专业的 PNG 图表，直接嵌入 Markdown 文档。",
