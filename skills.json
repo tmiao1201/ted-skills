@@ -1031,16 +1031,14 @@
   },
   {
     "name": "tedmoe",
-    "desc": "Tedmoe · 深度思想家委员会引擎。扫描本地已蒸馏的人物视角 skill 库（女娲 examples + 用户安装的 *-perspective）， 按问题自动挑 3-5 位真实人物（库克、马斯克、芒格、费曼、Naval、塔勒布、Jobs、PG、张一鸣、Karpathy、Ilya、特朗普、MrBeast、孙宇晨、张雪峰、X 导师等 16+ 候选）， 并行 spawn agent 让每位用自己的\"思维操作系统\"独立分析，最后合成加权裁决报告。 与 kenmoe 互补：kenmoe 走广度撒网（任意主题快速辩论，临时角色），tedmoe 走深度审视（真实人物深度视角，可复现质量）。 触发词：「tedmoe」「思想家委员会」「专家委员会」「深度版 moe」「叫上 XX 几个人讨论」「找几个人物视角讨论」「真实人物视角辩论」。 也触发：「用库克、芒格、Naval 三个人讨论...」「叫上 Jobs 和 Musk...」「开一个 3 人的深度审视会」。 不触发（让 kenmoe 接管）：「来个辩论」「正反方各说说」「专家陪审团」「mixture of experts」——这些是 kenmoe 的广度场景。 不触发（让单个 perspective skill 接管）：用户只想要一个人的视角（\"用库克视角分析\"）。",
+    "desc": "Tedmoe · 深度思想家委员会引擎。扫描本地已蒸馏的人物视角 skill 库（女娲 examples + 用户安装的 *-perspective）， 按问题自动挑 3-5 位真实人物（库克、马斯克、芒格、费曼、Naval、塔勒布、Jobs、PG、张一鸣、Karpathy、Ilya、特朗普、MrBeast、孙宇晨、张雪峰、X 导师等 16+ 候选）， 并行 spawn agent 让每位用自己的\"思维操作系统\"独立分析，最后合成加权裁决报告。 与 kenmoe 互补：kenmoe 走广度撒网（任意主题快速辩论，临时角色），tedmoe 走深度审视（真实人物深度视角，可复现质量）。 触发词：「tedmoe」「思想家委员会」「专家委员会」「深度版 moe」「叫上 XX 几个人讨论」「找几个人物视角讨论」「真实人物视角辩论」。 也触发：「用库克、芒格、Naval 三个人讨论...」「叫上 Jobs 和 Musk...」「开一个 3 人的深度审视会」。 可选收敛层：在以上任意调用后加「--bayesian」「收敛一下」「给个置信度」「要不要型给结论」→ 对「是否/要不要型」决策追加贝叶斯收敛（先验→证据→后验→行动阈值→VoI）；开放型问题不启用。 不触发（让 kenmoe 接管）：「来个辩论」「正反方各说说」「专家陪审团」「mixture of experts」——这些是 kenmoe 的广度场景。 不触发（让单个 perspective skill 接管）：用户只想要一个人的视角（\"用库克视角分析\"）。",
     "overview": "> \"kenmoe 帮你听到很多声音；tedmoe 帮你听到几个真正听过的声音。\"",
-    "triggers": [
-      "用库克视角分析"
-    ],
+    "triggers": [],
     "category_id": "orchestration",
     "category": "研究编排",
     "color": "#7c9070",
     "path": "/Users/tedmiao/.claude/skills/tedmoe",
-    "size_kb": 14,
+    "size_kb": 15,
     "files": 1,
     "source": "installed",
     "download": "downloads/tedmoe.zip"
