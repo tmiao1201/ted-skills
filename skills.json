@@ -922,8 +922,8 @@
     "category": "创作/视觉",
     "color": "#e08a9b",
     "path": "/Users/tedmiao/.claude/skills/Ted-imgstyle",
-    "size_kb": 25587,
-    "files": 77,
+    "size_kb": 26099,
+    "files": 79,
     "source": "installed",
     "download": "downloads/Ted-imgstyle.zip"
   },
@@ -1406,8 +1406,8 @@
     "category": "其他",
     "color": "#888888",
     "path": "/Users/tedmiao/.claude/skills/chain-rotation",
-    "size_kb": 14,
-    "files": 2,
+    "size_kb": 24,
+    "files": 3,
     "source": "installed",
     "download": "downloads/chain-rotation.zip"
   },
@@ -1475,5 +1475,19 @@
     "files": 18021,
     "source": "installed",
     "download": ""
+  },
+  {
+    "name": "serenity-skill",
+    "desc": "Turn an investment agent into a supply-chain bottleneck hunter. Use this skill for source-backed investment research, live market/theme scans, AI/semi/technology value-chain mapping, A-share/HK/US stock screening, thesis stress tests, and Serenity-inspired research conversations. Trigger on requests like \"用 Serenity 的方式看\", \"深度调研\", \"产业链/供应链/卡点/瓶颈\", \"A股 AI 半导体哪个最值得研究\", \"find unknown bottlenecks\", \"rank candidates\", or \"challenge this thesis\". Outputs plain-language reasoning, ranked research priorities, evidence chains, risks, and next verification steps. Research support only; no trade execution.",
+    "overview": "Turn your investment agent into a supply-chain bottleneck hunter.",
+    "triggers": [],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/serenity-skill",
+    "size_kb": 92,
+    "files": 28,
+    "source": "installed",
+    "download": "downloads/serenity-skill.zip"
   }
 ]
