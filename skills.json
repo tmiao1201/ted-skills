@@ -1449,6 +1449,20 @@
     "download": "downloads/ky-design-to-html.zip"
   },
   {
+    "name": "last30days",
+    "desc": "Research what people actually say about any topic in the last 30 days. Pulls posts and engagement from Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, and the web.",
+    "overview": "Before reading anything else in this file, check whether you loaded SKILL.md from the one known stale-clone location: Claude Code's marketplaces directory.",
+    "triggers": [],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/last30days",
+    "size_kb": 16183,
+    "files": 146,
+    "source": "installed",
+    "download": "downloads/last30days.zip"
+  },
+  {
     "name": "ppt-master",
     "desc": "AI-driven multi-format SVG content generation system. Converts source documents (PDF/DOCX/URL/Markdown) into high-quality SVG pages and exports to PPTX through multi-role collaboration. Use when user asks to \"create PPT\", \"make presentation\", \"生成PPT\", \"做PPT\", \"制作演示文稿\", or mentions \"ppt-master\".",
     "overview": "> [!IMPORTANT] > ## 🔧 Local Install Note (tedmiao 本地配置) > > Python dependencies are installed in a per-skill venv at `${SKILL_DIR}/.venv/`. > When this SKILL.md says `python3 ${SKILL_DIR}/scripts/...`, you MUST run it as > `${SKILL_DIR}/.venv/bin/python ${SKILL_DIR}/scripts/...` instead — the system > `python3` does not have python-pptx / PyMuPDF / edge-tts / etc. installed. > > The optional `svgl",
