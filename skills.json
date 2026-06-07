@@ -922,7 +922,7 @@
     "category": "创作/视觉",
     "color": "#e08a9b",
     "path": "/Users/tedmiao/.claude/skills/Ted-imgstyle",
-    "size_kb": 26100,
+    "size_kb": 26101,
     "files": 79,
     "source": "installed",
     "download": "downloads/Ted-imgstyle.zip"
@@ -1038,7 +1038,7 @@
     "category": "研究编排",
     "color": "#7c9070",
     "path": "/Users/tedmiao/.claude/skills/tedmoe",
-    "size_kb": 19,
+    "size_kb": 20,
     "files": 1,
     "source": "installed",
     "download": "downloads/tedmoe.zip"
