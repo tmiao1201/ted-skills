@@ -922,8 +922,8 @@
     "category": "创作/视觉",
     "color": "#e08a9b",
     "path": "/Users/tedmiao/.claude/skills/Ted-imgstyle",
-    "size_kb": 26101,
-    "files": 79,
+    "size_kb": 26003,
+    "files": 80,
     "source": "installed",
     "download": "downloads/Ted-imgstyle.zip"
   },
@@ -1435,6 +1435,20 @@
     "download": "downloads/kendiag.zip"
   },
   {
+    "name": "kenfindash",
+    "desc": "FP&A/CFO 级财务数据门户生成器——把上市公司三表（利润表/资产负债表/现金流量表）与 CFO 关心的数据，做成类 Excel 的在线动态网格/透视/表格，专业化人性化呈现。全免费技术栈，纯前端零后端，可离线脱敏双击运行。核心：自研 sticky 报表网格(轨A) + 零依赖自研 pivot 内核(轨C，免费超越 AG Grid Enterprise pivot) + FINOS Perspective 百万行重型透视(轨B，opt-in)，ExcelJS 会计级导出（千分位/负数括号/冻结窗格/加粗小计），继承 kenhtml Corporate Dual-Blue 设计与 kenslide-perfect 财务规范。单文件 HTML 与 Portal 门户双形态。当用户提到\"财务数据网格\"、 \"FP&A 看板\"、\"CFO 看板/决策包\"、\"三表门户\"、\"财务报表可视化\"、\"类 Excel 网格\"、\"数据透视表\"、\"pivot 看板\"、 \"财务 dashboard\"、\"上市公司三表呈现\"、\"Excel 无缝下载的财务表格\"、\"kenfindash\" 时触发。 When NOT to Use：要做 PPT/路演 → /kenslide-perfect 或 /kenwebppt；个股研判辩论 → /kenaagent；通用交互 HTML 小工具(非财务网格) → /kenhtml；纯 Excel 文件生成(非 Web 看板) → /xlsx；要 Python 抓真实财报数据 → 本 skill 不做(用户自备脱敏 JSON/Excel)。",
+    "overview": "把\"上市公司三表 + CFO 关心的数据\"做成**类 Excel 的在线动态体验**：固定结构报表对账严谨、大明细透视分析自由、Excel 导出会计级保真，全程**全免费栈 + 纯前端 + 可离线**。",
+    "triggers": [],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/kenfindash",
+    "size_kb": 2116,
+    "files": 36,
+    "source": "installed",
+    "download": "downloads/kenfindash.zip"
+  },
+  {
     "name": "ky-design-to-html",
     "desc": "Convert visible UI references such as screenshots, exported mockups, Figma frame images, SaaS empty states, dashboards, and landing page screenshots into high-quality HTML/CSS by decomposing layout, separating visual assets from code-rendered UI, implementing the page, then validating with browser screenshots and iterative visual correction. Use when the user asks to recreate, copy, convert, or implement a visual design as HTML/CSS from an image or equivalent visual reference. Do not use for ordinary frontend feature work without a visual reference, designing new pages from text only, backend work, or pure image generation.",
     "overview": "Do not jump directly from image to HTML.",
@@ -1457,8 +1471,8 @@
     "category": "其他",
     "color": "#888888",
     "path": "/Users/tedmiao/.claude/skills/last30days",
-    "size_kb": 16183,
-    "files": 146,
+    "size_kb": 16279,
+    "files": 150,
     "source": "installed",
     "download": "downloads/last30days.zip"
   },
@@ -1489,6 +1503,27 @@
     "files": 18021,
     "source": "installed",
     "download": ""
+  },
+  {
+    "name": "quant-falsify",
+    "desc": "用 tsdata（A 股 8 年全市场面板）严格证伪一个「long-only 选股 idea」——单变量基线 → 条件分层 → 多变量 ML → walk-forward 时序外推 → 扣成本顶档超额检验，每一步都在反过拟合、反自欺。 核心立场：证伪是常态、IC 显著 ≠ 能赚钱、预测准 ≠ 多赚钱；做出\"负结论\"也是成功交付。 触发词：「验证一下这个选股因子/策略」「这个 idea 能不能赚钱」「证伪 XX 选股法」「回测一下」「这个因子有没有 alpha」。 适用：有一个明确的横截面选股假设（某因子/某形态/某事件 → 选头部能跑赢），想知道它真假、能不能扣成本后赚钱。 不适用：择时/定投/资产配置类（非横截面选股）、没有明确假设的\"帮我找因子\"、需要分钟级/Tick 数据的高频、纯定性主题。",
+    "overview": "把\"我觉得 X 因子能选出跑赢的股票\"这个念头，放进一条**层层加严、专门用来证伪**的流水线里跑。**核心信仰：默认假设是假的，要用越来越严的检验去推翻\"它有效\"；扛过全部检验才算真，扛不过就老老实实下负结论。A 股横截面选股里，负结论是大概率——这本身就是有价值的交付。**",
+    "triggers": [
+      "想知道它真假",
+      "能不能扣成本后赚钱。 不适用：择时/定投/资产配置类（非横截面选股",
+      "没有明确假设的",
+      "帮我找因子",
+      "需要分钟级/Tick 数据的高频",
+      "纯定性主题。"
+    ],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/quant-falsify",
+    "size_kb": 7,
+    "files": 1,
+    "source": "installed",
+    "download": "downloads/quant-falsify.zip"
   },
   {
     "name": "serenity-skill",
