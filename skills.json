@@ -922,8 +922,8 @@
     "category": "创作/视觉",
     "color": "#e08a9b",
     "path": "/Users/tedmiao/.claude/skills/Ted-imgstyle",
-    "size_kb": 26003,
-    "files": 80,
+    "size_kb": 26333,
+    "files": 82,
     "source": "installed",
     "download": "downloads/Ted-imgstyle.zip"
   },
@@ -1394,6 +1394,20 @@
     "download": "downloads/zhangxuefeng-perspective.zip"
   },
   {
+    "name": "agent-reach",
+    "desc": "MUST USE when user wants to 调研/research/搜索/search/查/找/look up anything on the internet — e.g. 全网调研 X / 帮我调研一下 X / 查一下 X / 搜搜 X / 看看大家怎么评价 X / X 上有什么讨论 / research this topic。 Also MUST USE when user mentions any platform or shares any URL/链接: 小红书/xiaohongshu/xhs, Twitter/推特/X, B站/bilibili, Reddit, Facebook, Instagram, V2EX, LinkedIn/领英/招聘/求职/jobs, YouTube, GitHub code search, 小宇宙播客, 雪球/股票行情, RSS feeds, or any web URL. 15 platforms, multi-backend routing (OpenCLI / per-platform CLIs / APIs). Zero config for 6 channels. Run `agent-reach doctor --json` to see which backend serves each platform right now. NOT for: 写报告/数据分析/翻译等内容加工（本 skill 只负责从互联网获取内容）； 发帖/评论/点赞等写操作；已有专门 skill 的平台（先用专门 skill）。 【路由方式】SKILL.md 包含路由表和常用命令，复杂场景需按需阅读对应分类的 references/*.md。 分类：search / social (小红书/推特/B站/V2EX/Reddit/Facebook/Instagram) / career(LinkedIn) / dev(github) / web(网页/文章/RSS) / video(YouTube/B站/播客)。",
+    "overview": "15 平台、多后端。**本 skill 存在时必须用它访问这些平台，不要自己发明方案。**",
+    "triggers": [],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/agent-reach",
+    "size_kb": 23,
+    "files": 7,
+    "source": "installed",
+    "download": "downloads/agent-reach.zip"
+  },
+  {
     "name": "chain-rotation",
     "desc": "从一个旗舰科技产品的 BOM 增量逻辑出发，穿透多层供应链到上游原材料，对应 A 股/港股标的， 用 tsdata 拉真实财务 + 券商一致预期，做「兑现轮动 + 兑现-估值象限」投研分析并出可视化仪表盘。 触发词：「产业链兑现分析」「从 XX 产品看供应链/受益股」「供应链多层穿透」「兑现轮动」「BOM 拆到股票」 「XX 新品产业链 + 财务兑现」「谁兑现了谁还没」。 适用：有清晰产品锚点 + 清晰供应链的科技投资主题（AI 芯片 / 消费电子 / 新能源车 / 机器人 / 光伏等）。 不适用：没有产品锚点的宏观主题、纯题材炒作、一级市场、短线技术分析。",
     "overview": "把\"一个旗舰新产品的成本结构变化\"翻译成\"哪些 A 股环节、哪些公司、什么时候兑现业绩\"，并用真实财务数据验证兑现到了哪一步、估值透支了没有。**核心信仰：不预测股价点位，只判断兑现阶段 + 方向 + 卖方一致预期区间，且每个数字都标清是\"实际 / 预期 / 我的判断\"。**",
@@ -1538,5 +1552,27 @@
     "files": 29,
     "source": "installed",
     "download": "downloads/serenity-skill.zip"
+  },
+  {
+    "name": "trip-cards",
+    "desc": "旅游攻略卡套件生成器 —— 输入一段行程的「交通」（高铁/航班车次、时刻、座位）+「住宿」信息， 自动生成三件统一风格的产物：①逐日行程卡 / 旅游须知（HTML，手机看 + 可打印 PDF，含逐日景点/ 美食/住宿/花费/提醒）②交通速查锁屏卡（深色竖版 HTML，顶部留时钟位，一屏看全所有车次航班） ③城市旅游手卡分镜词（调用 Ted-imgstyle，每城一张 3:4 竖图，景点+美食+行程标签）。 触发词：旅游攻略、行程卡、旅游手卡、把行程做成卡、做个旅行攻略、出行须知、车次速查卡、 travel guide / trip cards。适用：已有或将有交通+住宿信息的多城/多日旅行行程。",
+    "overview": "- 用户给出一段旅行的**交通**（车次/航班号、日期、起讫站、时刻、座位）和**住宿**（酒店、城市、入住-离店日期），想要一份能用的攻略。 - 用户说「做个旅游攻略 / 行程卡 / 旅游手卡 / 出行须知 / 车次速查卡」。 - 信息可以是文字、粘贴的订单、或订单截图（截图用 Read 看图提取）。",
+    "triggers": [
+      "：旅游攻略",
+      "行程卡",
+      "旅游手卡",
+      "把行程做成卡",
+      "做个旅行攻略",
+      "出行须知",
+      "车次速查卡"
+    ],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/trip-cards",
+    "size_kb": 25,
+    "files": 4,
+    "source": "installed",
+    "download": "downloads/trip-cards.zip"
   }
 ]
