@@ -1440,6 +1440,20 @@
     "download": "downloads/eli5.zip"
   },
   {
+    "name": "frontend-design",
+    "desc": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
+    "overview": "Approach this as the design lead at a small studio known for giving every client a visual identity that could not be mistaken for anyone else's. This client has already rejected proposals that felt templated, and is paying for a distinctive point of view: make deliberate, opinionated choices about palette, typography, and layout that are specific to this brief, and take one real aesthetic risk you",
+    "triggers": [],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/frontend-design",
+    "size_kb": 18,
+    "files": 2,
+    "source": "installed",
+    "download": "downloads/frontend-design.zip"
+  },
+  {
     "name": "kendiag",
     "desc": "专业图表生成技能：根据需求自动选择合适的图表类型，默认输出 HTML（PNG 按需）。 覆盖 30 种图表：结构图（流程图、泳道图、时序图、架构图、状态图、ER图、类图、思维导图、甘特图等）、 统计图（柱状图、折线图、饼图、雷达图、热力图、桑基图、散点图等）、 竞争分析图（象限定位、BCG矩阵、波特五力、价值链）。 统一工具：HTML/SVG + 内联 JS 布局计算。ER/类图使用 ELKjs 布局引擎。 所有图表遵循统一的设计规范（配色/字体/组件/间距），风格现代简洁。 支持三种输出：PNG（默认）、HTML（富文档嵌入）、DSL（Mermaid/Graphviz 文本，嵌入 MD 文档）。 三 Theme：默认（Tailwind 风格）+ Professional（Dual-Blue 企业级）+ Blueprint（工程蓝图，含 Light/Dark 变体）。 Annotation 层：Callout 标注、Data Badge、关键路径高亮、趋势指示器、峰谷标记。 与 kendresearch/kenwar/kencourse/wxcomanaly 无缝协同，支持批量渲染。 触发词：画图、画一个、生成图表、流程图、架构图、时序图、柱状图、对比图、关系图、五力、象限、蓝图、blueprint。 即使用户没有说\"画图\"，只要需求中涉及可视化展示（流程、架构、数据对比、关系），都应触发此技能。 被 deep-research 等其他技能调用时，同样遵循本规范生成图表。",
     "overview": "> 用自然语言描述需求，自动生成专业的 PNG 图表，直接嵌入 Markdown 文档。",
