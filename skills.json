@@ -1440,6 +1440,22 @@
     "download": "downloads/eli5.zip"
   },
   {
+    "name": "finmodel-builder",
+    "desc": "从零手搓一个全公式、前后勾稽、可改假设联动的财务模型 Excel package（三表/合并报表/UE/项目评估/多维看板）。 方法论：影子引擎双算交叉验证 + 倒挤现金法 + Layout 坐标注册器 + 分层 DAG 分工。 触发词：「手搓财务模型」「做一个三表模型」「集团合并报表模型」「全公式 Excel 模型」 「财务模型 package」「公司预算模型」「FP&A 模型」「多维度下拉看板」。 适用：任何行业的单主体或集团财务模型（虚构或真实公司）、求职作品集级交付。 不适用：只要静态数字表格不要公式联动的（直接 openpyxl 填数即可）、超 10 年期月度颗粒度巨模型。",
+    "overview": "用 Python+openpyxl 生成**活的**财务模型：改一个蓝字假设，全模型重算，勾稽断言实时亮灯。 **核心信仰：完成 = 有证据——每一格数字都有影子引擎双算背书，绝不说\"应该可以了\"。**",
+    "triggers": [
+      "超 10 年期月度颗粒度巨模型。"
+    ],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/finmodel-builder",
+    "size_kb": 6,
+    "files": 1,
+    "source": "installed",
+    "download": "downloads/finmodel-builder.zip"
+  },
+  {
     "name": "frontend-design",
     "desc": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
     "overview": "Approach this as the design lead at a small studio known for giving every client a visual identity that could not be mistaken for anyone else's. This client has already rejected proposals that felt templated, and is paying for a distinctive point of view: make deliberate, opinionated choices about palette, typography, and layout that are specific to this brief, and take one real aesthetic risk you",
