@@ -23,7 +23,8 @@ CATEGORIES = {
         "label": "金融建模",
         "color": "#d4a574",
         "skills": {
-            "3-statement-model", "audit-xls", "bond-futures-basis", "bond-relative-value",
+            "3-statement-model",
+            "finmodel-builder", "audit-xls", "bond-futures-basis", "bond-relative-value",
             "clean-data-xls", "comps-analysis", "competitive-analysis", "datapack-builder",
             "dcf-model", "deck-refresh", "earnings-analysis", "earnings-preview-single",
             "equity-research", "financial-statements", "fixed-income-portfolio",
@@ -74,7 +75,7 @@ CATEGORIES = {
         "label": "研究编排",
         "color": "#7c9070",
         "skills": {
-            "kautoresearch", "kenmoe", "tedmoe", "research", "workflow-runner",
+            "kautoresearch", "kenmoe", "tedmoe", "research", "workflow-runner", "pod-digest",
             "github-cron", "building-feishu-daily-reports", "huashu-nuwa",
         },
     },

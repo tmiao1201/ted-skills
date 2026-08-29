@@ -213,6 +213,23 @@
     "download": "downloads/financial-statements.zip"
   },
   {
+    "name": "finmodel-builder",
+    "desc": "从元数据出发，手搓全公式、前后勾稽、数据与逻辑分离的财务模型 Excel package （三表/合并报表/UE/项目评估/多维看板，任何行业任何公司结构）。 五层架构：行业知识层(数据源管道校准) → 行业配置 → Meta 宽表数据层 → 行业无关逻辑引擎 → 呈现层。 行业参数禁止凭 AI 记忆硬编，走降级链（招股书→可比年报→…→诚实标低置信度）；配双算交叉验证。 触发词：「手搓财务模型」「做一个三表模型」「集团合并报表模型」「全公式 Excel 模型」 「财务模型 package」「FP&A 模型」「预算模型」「多维度下拉看板」「从元数据建财务模型」。 适用：单主体或集团、虚构或真实公司、求职作品集或进公司后接真实数据源。 不适用：只要静态数字表不要公式联动的（直接 openpyxl 填数）、超 10 年月度颗粒度巨模型。",
+    "overview": "核心信仰两条： 1. **行业不在代码里，在指标字典里**——换行业 = 换一份 Meta 数据，引擎零改动 2. **完成 = 有证据**——每格数字双算交叉验证，绝不说\"应该可以了\"",
+    "triggers": [
+      "虚构或真实公司",
+      "超 10 年月度颗粒度巨模型。"
+    ],
+    "category_id": "finance",
+    "category": "金融建模",
+    "color": "#d4a574",
+    "path": "/Users/tedmiao/.claude/skills/finmodel-builder",
+    "size_kb": 9,
+    "files": 1,
+    "source": "installed",
+    "download": "downloads/finmodel-builder.zip"
+  },
+  {
     "name": "fixed-income-portfolio",
     "desc": "Review fixed income portfolios by pricing multiple bonds, retrieving reference data, analyzing cashflows, and running scenario analysis. Use when reviewing bond portfolios, computing portfolio duration and DV01, analyzing cashflow waterfalls, stress testing rate scenarios, or assessing portfolio composition.",
     "overview": "You are an expert fixed income portfolio analyst. Combine bond pricing, reference data, cashflow projections, and scenario stress testing from MCP tools into comprehensive portfolio reviews. Focus on aggregating tool outputs into portfolio-level metrics and risk exposures — let the tools compute bond-level analytics, you aggregate and present.",
@@ -1016,6 +1033,25 @@
     "download": "downloads/kenmoe.zip"
   },
   {
+    "name": "pod-digest",
+    "desc": "科技播客炼金炉：任意播客 → 带时间戳逐字稿 → 结构化 digest（产业情报/科技原理/金句/术语表） → 三个下游素材块（知识卡片分镜草案/产业链四元组草案/金句精选），半自动接 Ted-imgstyle 与 chain-rotation。 触发词：「digest 这期播客」「炼一下硅谷101最新一期」「播客digest」「pod-digest」 「提取播客逐字稿」「播客转写总结」「这期播客讲了什么值得听的」。 适用：任意 RSS 分发的播客（中英文皆可）；有对应播客单集的 YouTube 视频（--youtube 链接须来自播客频道的一集，标题/日期与 RSS 单集互证）。 不适用：Spotify 独家且无 YouTube 版（两个源都没有才跳过）；微信读书/文章（留给 v2）；无播客单集对应的独立 YouTube 视频（vLog/发布会，留给 v2）；只要下载音频不需要 digest。",
+    "overview": "> 一手产业信息往往先出现在播客访谈里（企业高管/创始人亲自发声），而不是研报里。 > 本 skill 把「听播客」变成可积累的情报资产：逐字稿 → digest → 素材块 → 下游框架。",
+    "triggers": [
+      "微信读书/文章（留给 v2",
+      "无播客单集对应的独立 YouTube 视频（vLog/发布会",
+      "留给 v2",
+      "只要下载音频不需要 digest。"
+    ],
+    "category_id": "orchestration",
+    "category": "研究编排",
+    "color": "#7c9070",
+    "path": "/Users/tedmiao/.claude/skills/pod-digest",
+    "size_kb": 10320,
+    "files": 144,
+    "source": "installed",
+    "download": "downloads/pod-digest.zip"
+  },
+  {
     "name": "research",
     "desc": "Autonomous researcher: runs autonomous research cycles (modify, fixed-time experiment, evaluate, iterate)",
     "overview": "Run autonomous research cycles inspired by karpathy/autoresearch. Modify a target file, run fixed-time experiments, evaluate results, and iterate.",
@@ -1440,23 +1476,6 @@
     "download": "downloads/eli5.zip"
   },
   {
-    "name": "finmodel-builder",
-    "desc": "从元数据出发，手搓全公式、前后勾稽、数据与逻辑分离的财务模型 Excel package （三表/合并报表/UE/项目评估/多维看板，任何行业任何公司结构）。 五层架构：行业知识层(数据源管道校准) → 行业配置 → Meta 宽表数据层 → 行业无关逻辑引擎 → 呈现层。 行业参数禁止凭 AI 记忆硬编，走降级链（招股书→可比年报→…→诚实标低置信度）；配双算交叉验证。 触发词：「手搓财务模型」「做一个三表模型」「集团合并报表模型」「全公式 Excel 模型」 「财务模型 package」「FP&A 模型」「预算模型」「多维度下拉看板」「从元数据建财务模型」。 适用：单主体或集团、虚构或真实公司、求职作品集或进公司后接真实数据源。 不适用：只要静态数字表不要公式联动的（直接 openpyxl 填数）、超 10 年月度颗粒度巨模型。",
-    "overview": "核心信仰两条： 1. **行业不在代码里，在指标字典里**——换行业 = 换一份 Meta 数据，引擎零改动 2. **完成 = 有证据**——每格数字双算交叉验证，绝不说\"应该可以了\"",
-    "triggers": [
-      "虚构或真实公司",
-      "超 10 年月度颗粒度巨模型。"
-    ],
-    "category_id": "other",
-    "category": "其他",
-    "color": "#888888",
-    "path": "/Users/tedmiao/.claude/skills/finmodel-builder",
-    "size_kb": 9,
-    "files": 1,
-    "source": "installed",
-    "download": "downloads/finmodel-builder.zip"
-  },
-  {
     "name": "frontend-design",
     "desc": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
     "overview": "Approach this as the design lead at a small studio known for giving every client a visual identity that could not be mistaken for anyone else's. This client has already rejected proposals that felt templated, and is paying for a distinctive point of view: make deliberate, opinionated choices about palette, typography, and layout that are specific to this brief, and take one real aesthetic risk you",
@@ -1534,25 +1553,6 @@
     "files": 150,
     "source": "installed",
     "download": "downloads/last30days.zip"
-  },
-  {
-    "name": "pod-digest",
-    "desc": "科技播客炼金炉：任意播客 → 带时间戳逐字稿 → 结构化 digest（产业情报/科技原理/金句/术语表） → 三个下游素材块（知识卡片分镜草案/产业链四元组草案/金句精选），半自动接 Ted-imgstyle 与 chain-rotation。 触发词：「digest 这期播客」「炼一下硅谷101最新一期」「播客digest」「pod-digest」 「提取播客逐字稿」「播客转写总结」「这期播客讲了什么值得听的」。 适用：任意 RSS 分发的播客（中英文皆可）；有对应播客单集的 YouTube 视频（--youtube 链接须来自播客频道的一集，标题/日期与 RSS 单集互证）。 不适用：Spotify 独家且无 YouTube 版（两个源都没有才跳过）；微信读书/文章（留给 v2）；无播客单集对应的独立 YouTube 视频（vLog/发布会，留给 v2）；只要下载音频不需要 digest。",
-    "overview": "> 一手产业信息往往先出现在播客访谈里（企业高管/创始人亲自发声），而不是研报里。 > 本 skill 把「听播客」变成可积累的情报资产：逐字稿 → digest → 素材块 → 下游框架。",
-    "triggers": [
-      "微信读书/文章（留给 v2",
-      "无播客单集对应的独立 YouTube 视频（vLog/发布会",
-      "留给 v2",
-      "只要下载音频不需要 digest。"
-    ],
-    "category_id": "other",
-    "category": "其他",
-    "color": "#888888",
-    "path": "/Users/tedmiao/.claude/skills/pod-digest",
-    "size_kb": 10320,
-    "files": 144,
-    "source": "installed",
-    "download": "downloads/pod-digest.zip"
   },
   {
     "name": "ppt-master",
