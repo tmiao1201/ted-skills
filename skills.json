@@ -1535,6 +1535,24 @@
     "download": "downloads/last30days.zip"
   },
   {
+    "name": "pod-digest",
+    "desc": "科技播客炼金炉：任意播客 → 带时间戳逐字稿 → 结构化 digest（产业情报/科技原理/金句/术语表） → 三个下游素材块（知识卡片分镜草案/产业链四元组草案/金句精选），半自动接 Ted-imgstyle 与 chain-rotation。 触发词：「digest 这期播客」「炼一下硅谷101最新一期」「播客digest」「pod-digest」 「提取播客逐字稿」「播客转写总结」「这期播客讲了什么值得听的」。 适用：任意 RSS 分发的播客（小宇宙/Apple/Spotify/喜马拉雅上的非独家节目，中英文皆可）、有 YouTube 版的节目。 不适用：Spotify 独家无 RSS 节目；微信读书/文章类内容（留给 v2）；只要下载音频不需要 digest。",
+    "overview": "> 一手产业信息往往先出现在播客访谈里（企业高管/创始人亲自发声），而不是研报里。 > 本 skill 把「听播客」变成可积累的情报资产：逐字稿 → digest → 素材块 → 下游框架。",
+    "triggers": [
+      "中英文皆可",
+      "微信读书/文章类内容（留给 v2",
+      "只要下载音频不需要 digest。"
+    ],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/pod-digest",
+    "size_kb": 136,
+    "files": 67,
+    "source": "installed",
+    "download": "downloads/pod-digest.zip"
+  },
+  {
     "name": "ppt-master",
     "desc": "AI-driven multi-format SVG content generation system. Converts source documents (PDF/DOCX/URL/Markdown) into high-quality SVG pages and exports to PPTX through multi-role collaboration. Use when user asks to \"create PPT\", \"make presentation\", \"生成PPT\", \"做PPT\", \"制作演示文稿\", or mentions \"ppt-master\".",
     "overview": "> [!IMPORTANT] > ## 🔧 Local Install Note (tedmiao 本地配置) > > Python dependencies are installed in a per-skill venv at `${SKILL_DIR}/.venv/`. > When this SKILL.md says `python3 ${SKILL_DIR}/scripts/...`, you MUST run it as > `${SKILL_DIR}/.venv/bin/python ${SKILL_DIR}/scripts/...` instead — the system > `python3` does not have python-pptx / PyMuPDF / edge-tts / etc. installed. > > The optional `svgl",
