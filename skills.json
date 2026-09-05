@@ -922,29 +922,6 @@
     "download": "downloads/skill-learn.zip"
   },
   {
-    "name": "Ted-imgstyle",
-    "desc": "Ted 的视觉风格库 + 生图提示词工作台。两个用途：(1) 入库——当用户往 inbox/ 丢入新收藏的图（X/小红书/YouTube 截图等 原创解读图、信息图、漫画），帮他解读画面、判定所属视觉风格、归档并补全该风格的提示词要素；(2) 生图——当用户给出一段 逐字稿/文案/选题，帮他先拆\"图片分镜脚本\"，再由用户选定一种视觉风格，最后产出可直接喂给 nanobanana(Gemini 图像) / gpt-image-2 的成套图像提示词。触发词：图片风格、风格库、分镜、生图提示词、配图、做张图、逐字稿配图、入库这张图、 Ted-imgstyle、imgstyle。即使用户只说\"帮我把这段稿子配成图\"\"这张图归到哪类\"\"给我一套提示词\"也应触发。",
-    "overview": "这是 Ted 收藏的\"优质原创解读图\"提炼出的视觉风格库，配套一个生图提示词生成流程。 面向的生图模型：**nanobanana（Gemini 2.5 Flash Image）** 和 **gpt-image-2**（都吃自然语言描述，不是 tag 流）。",
-    "triggers": [
-      "：图片风格",
-      "风格库",
-      "生图提示词",
-      "做张图",
-      "逐字稿配图",
-      "入库这张图",
-      "Ted-imgstyle",
-      "imgstyle。即使用户只说"
-    ],
-    "category_id": "creative",
-    "category": "创作/视觉",
-    "color": "#e08a9b",
-    "path": "/Users/tedmiao/.claude/skills/Ted-imgstyle",
-    "size_kb": 51268,
-    "files": 105,
-    "source": "installed",
-    "download": "downloads/Ted-imgstyle.zip"
-  },
-  {
     "name": "building-feishu-daily-reports",
     "desc": "Use when 用户要搭建定期推送到飞书的数据日报/周报/月报系统（GMV、损益、运营指标），涉及 CSV/Excel/ODPS 数据源、漂亮 HTML 模板、playwright 截图、飞书机器人推送、GitHub Actions 定时调度的完整链路。包含飞书自建应用 vs 群机器人选型、chat_id 获取、中文字体、ECharts 渲染等关键坑。",
     "overview": "数据日报推送（GMV、PnL、运营指标 → 飞书）是常见内部展示场景。本 skill 提供端到端脚手架方法论 —— **HTML 模板 + Python 数据管线 + 飞书推送 + GitHub Actions 调度**。",
@@ -1046,8 +1023,8 @@
     "category": "研究编排",
     "color": "#7c9070",
     "path": "/Users/tedmiao/.claude/skills/pod-digest",
-    "size_kb": 14576,
-    "files": 216,
+    "size_kb": 14770,
+    "files": 220,
     "source": "installed",
     "download": "downloads/pod-digest.zip"
   },
@@ -1616,6 +1593,20 @@
     "files": 29,
     "source": "installed",
     "download": "downloads/serenity-skill.zip"
+  },
+  {
+    "name": "ted-imgstyle",
+    "desc": "Ted 的视觉风格库 + 生图提示词工作台。两个用途：(1) 入库——当用户往 inbox/ 丢入新收藏的图（X/小红书/YouTube 截图等 原创解读图、信息图、漫画），帮他解读画面、判定所属视觉风格、归档并补全该风格的提示词要素；(2)",
+    "overview": "这是 Ted 收藏的\"优质原创解读图\"提炼出的视觉风格库，配套一个生图提示词生成流程。 面向的生图模型：**nanobanana（Gemini 2.5 Flash Image）** 和 **gpt-image-2**（都吃自然语言描述，不是 tag 流）。",
+    "triggers": [],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/Ted-imgstyle",
+    "size_kb": 51268,
+    "files": 105,
+    "source": "installed",
+    "download": "downloads/ted-imgstyle.zip"
   },
   {
     "name": "trip-cards",
