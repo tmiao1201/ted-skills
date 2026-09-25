@@ -1024,8 +1024,8 @@
     "category": "研究编排",
     "color": "#7c9070",
     "path": "/Users/tedmiao/.claude/skills/pod-digest",
-    "size_kb": 131346,
-    "files": 474,
+    "size_kb": 198693,
+    "files": 839,
     "source": "installed",
     "download": ""
   },
@@ -1466,6 +1466,29 @@
     "files": 2,
     "source": "installed",
     "download": "downloads/frontend-design.zip"
+  },
+  {
+    "name": "js-motion-video",
+    "desc": "用纯 JavaScript（Canvas 2D）做手绘风动画短视频并导出 MP4：纸张质感、线条抖动、原创吉祥物「团子」、镜头推拉、圆形传送门转场、X 光剖面、原理图标注、打字机效果、UI 演示。支持拆解参考视频后复刻镜头语言。触发词：代码做视频、JS 动画视频、手绘风动画、复刻这个视频、做个科普动画、产品演示动画、code to video、js-motion-video。用户给出参考视频要求\"学习/复刻/仿照\"，或给出脚本/选题要求做成动画短片时使用。不适用：真人实拍剪辑、给已有视频加字幕/配乐、3D 渲染。",
+    "overview": "把每一帧写成时间的纯函数 `draw(ctx, t)`，在浏览器里实时预览，再用无头 Chromium 逐帧截图，通过管道交给 ffmpeg 编码成 MP4。",
+    "triggers": [
+      "：代码做视频",
+      "JS 动画视频",
+      "手绘风动画",
+      "复刻这个视频",
+      "做个科普动画",
+      "产品演示动画",
+      "code to video",
+      "js-motion-video。用户给出参考视频要求"
+    ],
+    "category_id": "other",
+    "category": "其他",
+    "color": "#888888",
+    "path": "/Users/tedmiao/.claude/skills/js-motion-video",
+    "size_kb": 93,
+    "files": 12,
+    "source": "installed",
+    "download": "downloads/js-motion-video.zip"
   },
   {
     "name": "kendiag",
